@@ -2,9 +2,11 @@
   {
     "video": "0001.mp4",
     "prompt": "In a quiet storage room, a rabbit is on the left of a box, then hops to the right of the box.",
+    "dummy": "dummy"
   },
   {
     "video": "0002.mp4",
     "prompt": "In a sunny park, a dog is in front of a bench, then moves behind the bench.",
+    "dummy": "dummy"
   }
 ]
