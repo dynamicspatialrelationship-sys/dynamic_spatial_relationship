@@ -1,9 +1,9 @@
 :root{
-  --bg:#0b0f14;
-  --panel:#111824;
-  --text:#e7edf5;
-  --muted:#9fb0c3;
-  --border:rgba(255,255,255,0.08);
+  --bg:#ffffff;
+  --panel:#f6f8fa;
+  --text:#0b0f14;
+  --muted:#5c6b7a;
+  --border:rgba(0,0,0,0.12);
   --radius:14px;
 }
 
