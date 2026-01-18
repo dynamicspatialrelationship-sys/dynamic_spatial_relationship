@@ -1,22 +1,10 @@
 [
   {
-    "id": "0001",
+    "video": "0001.mp4",
     "prompt": "In a quiet storage room, a rabbit is on the left of a box, then hops to the right of the box.",
-    "animal": "rabbit",
-    "object": "box",
-    "scene": "storage room",
-    "initial_sr": "on the left of",
-    "final_sr": "to the right of",
-    "group": "L2R"
   },
   {
-    "id": "0002",
+    "video": "0002.mp4",
     "prompt": "In a sunny park, a dog is in front of a bench, then moves behind the bench.",
-    "animal": "dog",
-    "object": "bench",
-    "scene": "park",
-    "initial_sr": "in front of",
-    "final_sr": "to behind",
-    "group": "F2B"
   }
 ]
