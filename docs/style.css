@@ -6,30 +6,31 @@ body {
   background: #ffffff;
   color: #000000;
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-  overflow-x: hidden; /* 防止横向滚动条 */
+  overflow-x: hidden; /* 防止缩放时横向滚动条干扰 */
 }
 
-/* ===== 页面整体缩放容器 ===== */
-#scale-root {
+/* 设计基准宽度：你可以改大/改小，但要和 app.js 里一致 */
+:root { --base-width: 1440; }
+
+#scale-root{
+  width: calc(var(--base-width) * 1px);
   transform-origin: top left;
-  width: 1200px;          /* 设计基准宽度（关键） */
+  /* transform 由 JS 动态设置 */
 }
 
-/* ===== 标题 ===== */
 .page-title {
   font-size: 28px;
   font-weight: 600;
   margin: 0 0 28px 0;
 }
 
-/* ===== 固定 3 列布局（永不变化） ===== */
+/* 永远 3 列，不随窗口变化 */
 #container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 32px;
 }
 
-/* ===== 单个 item ===== */
 .item {
   display: flex;
   flex-direction: column;
