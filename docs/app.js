@@ -1,13 +1,5 @@
 const container = document.getElementById("container");
 
-function videoPath(id, kind) {
-  return `./videos/${id}_${kind}.mp4`;
-}
-
-function curvePath(id, kind) {
-  return `./curves/${id}_${kind}.png`;
-}
-
 function escapeHtml(s) {
   return String(s)
     .replaceAll("&", "&amp;")
@@ -17,13 +9,27 @@ function escapeHtml(s) {
     .replaceAll("'", "&#039;");
 }
 
-/* 窗口变窄时整体缩放（保持 3 列不变） */
+/* ===== 路径规则（完全按你的目录与命名） ===== */
+function videoPath(split, filename) {
+  // split: "baseline" | "finetuned"
+  return `./${split}/${filename}`;
+}
+
+function curvePath(split, filename) {
+  // split: "baseline_score" | "finetuned_score"
+  // curve 文件名是 "0001.mp4.png"
+  return `./${split}/${filename}.png`;
+}
+
+/* ===== 整体缩放（保持 3 列不变） ===== */
 function autoScale() {
   const root = document.getElementById("scale-root");
-  const baseWidth = parseInt(
-    getComputedStyle(document.documentElement).getPropertyValue("--base-width"),
-    10
-  ) || 1440;
+  const baseWidth =
+    parseInt(
+      getComputedStyle(document.documentElement).getPropertyValue("--base-width"),
+      10
+    ) || 1440;
+
   const scale = Math.min(window.innerWidth / baseWidth, 1);
   root.style.transform = `scale(${scale})`;
 }
@@ -31,42 +37,48 @@ function autoScale() {
 window.addEventListener("resize", autoScale);
 window.addEventListener("load", autoScale);
 
+/* ===== 渲染 ===== */
 fetch("./data.json", { cache: "no-store" })
   .then(r => r.json())
   .then(data => {
-    container.innerHTML = data.map(d => `
-      <div class="item">
-        <div class="prompt">
-          <strong>Prompt:</strong> ${escapeHtml(d.prompt || "")}
-        </div>
+    container.innerHTML = data.map(d => {
+      const v = d.video;   // e.g. "0001.mp4"
+      const p = d.prompt;
 
-        <div class="videos">
-          <div class="video-col">
-            <div class="video-label">Baseline</div>
-            <video autoplay muted loop playsinline preload="metadata"
-              src="${videoPath(d.id, "baseline")}"></video>
-
-            <img class="curve"
-              src="${curvePath(d.id, "baseline")}"
-              alt="DSR curve (baseline) for ${escapeHtml(d.id)}"
-              loading="lazy"
-              onerror="this.style.display='none';">
+      return `
+        <div class="item">
+          <div class="prompt">
+            <strong>Prompt:</strong> ${escapeHtml(p || "")}
           </div>
 
-          <div class="video-col">
-            <div class="video-label">Finetuned</div>
-            <video autoplay muted loop playsinline preload="metadata"
-              src="${videoPath(d.id, "finetuned")}"></video>
+          <div class="videos">
+            <div class="video-col">
+              <div class="video-label">Baseline</div>
+              <video autoplay muted loop playsinline preload="metadata"
+                src="${videoPath("baseline", v)}"></video>
 
-            <img class="curve"
-              src="${curvePath(d.id, "finetuned")}"
-              alt="DSR curve (finetuned) for ${escapeHtml(d.id)}"
-              loading="lazy"
-              onerror="this.style.display='none';">
+              <img class="curve"
+                src="${curvePath("baseline_score", v)}"
+                alt="DSR curve (baseline)"
+                loading="lazy"
+                onerror="this.style.display='none';">
+            </div>
+
+            <div class="video-col">
+              <div class="video-label">Finetuned</div>
+              <video autoplay muted loop playsinline preload="metadata"
+                src="${videoPath("finetuned", v)}"></video>
+
+              <img class="curve"
+                src="${curvePath("finetuned_score", v)}"
+                alt="DSR curve (finetuned)"
+                loading="lazy"
+                onerror="this.style.display='none';">
+            </div>
           </div>
         </div>
-      </div>
-    `).join("");
+      `;
+    }).join("");
 
     autoScale();
   })
