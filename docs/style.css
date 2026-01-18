@@ -17,29 +17,45 @@ body {
   margin-bottom: 32px;
 }
 
-/* One example block */
+/* ====== GRID LAYOUT ====== */
+/* 关键：3 个 item 一行 */
+#container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+}
+
+/* 响应式：屏幕小了就降列数 */
+@media (max-width: 1200px) {
+  #container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 800px) {
+  #container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ====== ONE ITEM ====== */
 .item {
-  margin-bottom: 48px;
+  display: flex;
+  flex-direction: column;
 }
 
 /* Prompt text */
 .prompt {
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.5;
-  margin-bottom: 12px;
+  margin-bottom: 10px;
 }
 
-/* Video row */
+/* Video row (baseline + finetuned) */
 .videos {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 16px;
-}
-
-@media (max-width: 900px) {
-  .videos {
-    grid-template-columns: 1fr;
-  }
+  gap: 12px;
 }
 
 .video-col {
