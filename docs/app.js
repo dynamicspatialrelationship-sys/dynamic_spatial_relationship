@@ -29,7 +29,7 @@ function autoScale() {
     ) || 1440;
 
   const scale = Math.min(window.innerWidth / baseWidth, 1);
-  root.style.transform = `scale(${scale})`;
+  root.style.transform = `translateX(-50%) scale(${scale})`;
 }
 
 window.addEventListener("resize", autoScale);
