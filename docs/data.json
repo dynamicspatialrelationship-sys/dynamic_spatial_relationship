@@ -1,12 +1,902 @@
 [
   {
-    "video": "0001.mp4",
-    "prompt": "In a quiet storage room, a rabbit is on the left of a box, then hops to the right of the box.",
+    "video": "testLRFBT_LR_0_F81_seed00.mp4",
+    "prompt": "On a grassy field with wildflowers, a rabbit is on the left of a stone, then the rabbit jumps to the right of the stone.",
+    "prompt_id": "testLRFBT_LR_0",
     "dummy": "dummy"
   },
   {
-    "video": "0002.mp4",
-    "prompt": "In a sunny park, a dog is in front of a bench, then moves behind the bench.",
+    "video": "testLRFBT_LR_0_F81_seed01.mp4",
+    "prompt": "On a grassy field with wildflowers, a rabbit is on the left of a stone, then the rabbit jumps to the right of the stone.",
+    "prompt_id": "testLRFBT_LR_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_0_F81_seed02.mp4",
+    "prompt": "On a grassy field with wildflowers, a rabbit is on the left of a stone, then the rabbit jumps to the right of the stone.",
+    "prompt_id": "testLRFBT_LR_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_0_F81_seed03.mp4",
+    "prompt": "On a grassy field with wildflowers, a rabbit is on the left of a stone, then the rabbit jumps to the right of the stone.",
+    "prompt_id": "testLRFBT_LR_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_0_F81_seed04.mp4",
+    "prompt": "On a grassy field with wildflowers, a rabbit is on the left of a stone, then the rabbit jumps to the right of the stone.",
+    "prompt_id": "testLRFBT_LR_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_1_F81_seed00.mp4",
+    "prompt": "In a quiet forest clearing, a squirrel is on the left of a lamp, then the squirrel scampers to the right of the lamp.",
+    "prompt_id": "testLRFBT_LR_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_1_F81_seed01.mp4",
+    "prompt": "In a quiet forest clearing, a squirrel is on the left of a lamp, then the squirrel scampers to the right of the lamp.",
+    "prompt_id": "testLRFBT_LR_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_1_F81_seed02.mp4",
+    "prompt": "In a quiet forest clearing, a squirrel is on the left of a lamp, then the squirrel scampers to the right of the lamp.",
+    "prompt_id": "testLRFBT_LR_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_1_F81_seed03.mp4",
+    "prompt": "In a quiet forest clearing, a squirrel is on the left of a lamp, then the squirrel scampers to the right of the lamp.",
+    "prompt_id": "testLRFBT_LR_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_1_F81_seed04.mp4",
+    "prompt": "In a quiet forest clearing, a squirrel is on the left of a lamp, then the squirrel scampers to the right of the lamp.",
+    "prompt_id": "testLRFBT_LR_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_2_F81_seed00.mp4",
+    "prompt": "By a calm riverbank with reeds, a cat is on the left of a hydrant, then the cat paces to the right of the hydrant.",
+    "prompt_id": "testLRFBT_LR_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_2_F81_seed01.mp4",
+    "prompt": "By a calm riverbank with reeds, a cat is on the left of a hydrant, then the cat paces to the right of the hydrant.",
+    "prompt_id": "testLRFBT_LR_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_2_F81_seed02.mp4",
+    "prompt": "By a calm riverbank with reeds, a cat is on the left of a hydrant, then the cat paces to the right of the hydrant.",
+    "prompt_id": "testLRFBT_LR_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_2_F81_seed03.mp4",
+    "prompt": "By a calm riverbank with reeds, a cat is on the left of a hydrant, then the cat paces to the right of the hydrant.",
+    "prompt_id": "testLRFBT_LR_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_2_F81_seed04.mp4",
+    "prompt": "By a calm riverbank with reeds, a cat is on the left of a hydrant, then the cat paces to the right of the hydrant.",
+    "prompt_id": "testLRFBT_LR_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_3_F81_seed00.mp4",
+    "prompt": "At the edge of a sunny meadow, a dog is on the left of a bucket, then the dog runs to the right of the bucket.",
+    "prompt_id": "testLRFBT_LR_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_3_F81_seed01.mp4",
+    "prompt": "At the edge of a sunny meadow, a dog is on the left of a bucket, then the dog runs to the right of the bucket.",
+    "prompt_id": "testLRFBT_LR_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_3_F81_seed02.mp4",
+    "prompt": "At the edge of a sunny meadow, a dog is on the left of a bucket, then the dog runs to the right of the bucket.",
+    "prompt_id": "testLRFBT_LR_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_3_F81_seed03.mp4",
+    "prompt": "At the edge of a sunny meadow, a dog is on the left of a bucket, then the dog runs to the right of the bucket.",
+    "prompt_id": "testLRFBT_LR_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_3_F81_seed04.mp4",
+    "prompt": "At the edge of a sunny meadow, a dog is on the left of a bucket, then the dog runs to the right of the bucket.",
+    "prompt_id": "testLRFBT_LR_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_4_F81_seed00.mp4",
+    "prompt": "On a rocky hillside with moss, a fox is on the left of a chair, then the fox sprints to the right of the chair.",
+    "prompt_id": "testLRFBT_LR_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_4_F81_seed01.mp4",
+    "prompt": "On a rocky hillside with moss, a fox is on the left of a chair, then the fox sprints to the right of the chair.",
+    "prompt_id": "testLRFBT_LR_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_4_F81_seed02.mp4",
+    "prompt": "On a rocky hillside with moss, a fox is on the left of a chair, then the fox sprints to the right of the chair.",
+    "prompt_id": "testLRFBT_LR_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_4_F81_seed03.mp4",
+    "prompt": "On a rocky hillside with moss, a fox is on the left of a chair, then the fox sprints to the right of the chair.",
+    "prompt_id": "testLRFBT_LR_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LR_4_F81_seed04.mp4",
+    "prompt": "On a rocky hillside with moss, a fox is on the left of a chair, then the fox sprints to the right of the chair.",
+    "prompt_id": "testLRFBT_LR_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_0_F81_seed00.mp4",
+    "prompt": "At a seaside dock with gulls, a turtle is on the left of a bench, then the turtle ambles to the top of the bench.",
+    "prompt_id": "testLRFBT_LT_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_0_F81_seed01.mp4",
+    "prompt": "At a seaside dock with gulls, a turtle is on the left of a bench, then the turtle ambles to the top of the bench.",
+    "prompt_id": "testLRFBT_LT_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_0_F81_seed02.mp4",
+    "prompt": "At a seaside dock with gulls, a turtle is on the left of a bench, then the turtle ambles to the top of the bench.",
+    "prompt_id": "testLRFBT_LT_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_0_F81_seed03.mp4",
+    "prompt": "At a seaside dock with gulls, a turtle is on the left of a bench, then the turtle ambles to the top of the bench.",
+    "prompt_id": "testLRFBT_LT_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_0_F81_seed04.mp4",
+    "prompt": "At a seaside dock with gulls, a turtle is on the left of a bench, then the turtle ambles to the top of the bench.",
+    "prompt_id": "testLRFBT_LT_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_1_F81_seed00.mp4",
+    "prompt": "Near a market square with stalls, a rabbit is on the left of a crate, then the rabbit hops to the top of the crate.",
+    "prompt_id": "testLRFBT_LT_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_1_F81_seed01.mp4",
+    "prompt": "Near a market square with stalls, a rabbit is on the left of a crate, then the rabbit hops to the top of the crate.",
+    "prompt_id": "testLRFBT_LT_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_1_F81_seed02.mp4",
+    "prompt": "Near a market square with stalls, a rabbit is on the left of a crate, then the rabbit hops to the top of the crate.",
+    "prompt_id": "testLRFBT_LT_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_1_F81_seed03.mp4",
+    "prompt": "Near a market square with stalls, a rabbit is on the left of a crate, then the rabbit hops to the top of the crate.",
+    "prompt_id": "testLRFBT_LT_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_1_F81_seed04.mp4",
+    "prompt": "Near a market square with stalls, a rabbit is on the left of a crate, then the rabbit hops to the top of the crate.",
+    "prompt_id": "testLRFBT_LT_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_2_F81_seed00.mp4",
+    "prompt": "On a plaza with stone benches, a squirrel is on the left of a stone, then the squirrel darts to the top of the stone.",
+    "prompt_id": "testLRFBT_LT_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_2_F81_seed01.mp4",
+    "prompt": "On a plaza with stone benches, a squirrel is on the left of a stone, then the squirrel darts to the top of the stone.",
+    "prompt_id": "testLRFBT_LT_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_2_F81_seed02.mp4",
+    "prompt": "On a plaza with stone benches, a squirrel is on the left of a stone, then the squirrel darts to the top of the stone.",
+    "prompt_id": "testLRFBT_LT_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_2_F81_seed03.mp4",
+    "prompt": "On a plaza with stone benches, a squirrel is on the left of a stone, then the squirrel darts to the top of the stone.",
+    "prompt_id": "testLRFBT_LT_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_2_F81_seed04.mp4",
+    "prompt": "On a plaza with stone benches, a squirrel is on the left of a stone, then the squirrel darts to the top of the stone.",
+    "prompt_id": "testLRFBT_LT_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_3_F81_seed00.mp4",
+    "prompt": "Inside a hallway with framed photos, a cat is on the left of a lamp, then the cat sneaks to the top of the lamp.",
+    "prompt_id": "testLRFBT_LT_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_3_F81_seed01.mp4",
+    "prompt": "Inside a hallway with framed photos, a cat is on the left of a lamp, then the cat sneaks to the top of the lamp.",
+    "prompt_id": "testLRFBT_LT_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_3_F81_seed02.mp4",
+    "prompt": "Inside a hallway with framed photos, a cat is on the left of a lamp, then the cat sneaks to the top of the lamp.",
+    "prompt_id": "testLRFBT_LT_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_3_F81_seed03.mp4",
+    "prompt": "Inside a hallway with framed photos, a cat is on the left of a lamp, then the cat sneaks to the top of the lamp.",
+    "prompt_id": "testLRFBT_LT_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_3_F81_seed04.mp4",
+    "prompt": "Inside a hallway with framed photos, a cat is on the left of a lamp, then the cat sneaks to the top of the lamp.",
+    "prompt_id": "testLRFBT_LT_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_4_F81_seed00.mp4",
+    "prompt": "By a village well with buckets, a dog is on the left of a chair, then the dog trots to the top of the chair.",
+    "prompt_id": "testLRFBT_LT_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_4_F81_seed01.mp4",
+    "prompt": "By a village well with buckets, a dog is on the left of a chair, then the dog trots to the top of the chair.",
+    "prompt_id": "testLRFBT_LT_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_4_F81_seed02.mp4",
+    "prompt": "By a village well with buckets, a dog is on the left of a chair, then the dog trots to the top of the chair.",
+    "prompt_id": "testLRFBT_LT_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_4_F81_seed03.mp4",
+    "prompt": "By a village well with buckets, a dog is on the left of a chair, then the dog trots to the top of the chair.",
+    "prompt_id": "testLRFBT_LT_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_LT_4_F81_seed04.mp4",
+    "prompt": "By a village well with buckets, a dog is on the left of a chair, then the dog trots to the top of the chair.",
+    "prompt_id": "testLRFBT_LT_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_0_F81_seed00.mp4",
+    "prompt": "On a breezy hilltop at dusk, a cat is on the right of a hydrant, then the cat prowls to the left of the hydrant.",
+    "prompt_id": "testLRFBT_RL_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_0_F81_seed01.mp4",
+    "prompt": "On a breezy hilltop at dusk, a cat is on the right of a hydrant, then the cat prowls to the left of the hydrant.",
+    "prompt_id": "testLRFBT_RL_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_0_F81_seed02.mp4",
+    "prompt": "On a breezy hilltop at dusk, a cat is on the right of a hydrant, then the cat prowls to the left of the hydrant.",
+    "prompt_id": "testLRFBT_RL_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_0_F81_seed03.mp4",
+    "prompt": "On a breezy hilltop at dusk, a cat is on the right of a hydrant, then the cat prowls to the left of the hydrant.",
+    "prompt_id": "testLRFBT_RL_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_0_F81_seed04.mp4",
+    "prompt": "On a breezy hilltop at dusk, a cat is on the right of a hydrant, then the cat prowls to the left of the hydrant.",
+    "prompt_id": "testLRFBT_RL_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_1_F81_seed00.mp4",
+    "prompt": "In a maple grove with red leaves, a dog is on the right of a bucket, then the dog bounds to the left of the bucket.",
+    "prompt_id": "testLRFBT_RL_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_1_F81_seed01.mp4",
+    "prompt": "In a maple grove with red leaves, a dog is on the right of a bucket, then the dog bounds to the left of the bucket.",
+    "prompt_id": "testLRFBT_RL_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_1_F81_seed02.mp4",
+    "prompt": "In a maple grove with red leaves, a dog is on the right of a bucket, then the dog bounds to the left of the bucket.",
+    "prompt_id": "testLRFBT_RL_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_1_F81_seed03.mp4",
+    "prompt": "In a maple grove with red leaves, a dog is on the right of a bucket, then the dog bounds to the left of the bucket.",
+    "prompt_id": "testLRFBT_RL_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_1_F81_seed04.mp4",
+    "prompt": "In a maple grove with red leaves, a dog is on the right of a bucket, then the dog bounds to the left of the bucket.",
+    "prompt_id": "testLRFBT_RL_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_2_F81_seed00.mp4",
+    "prompt": "By a pebble beach with driftwood, a fox is on the right of a chair, then the fox dashes to the left of the chair.",
+    "prompt_id": "testLRFBT_RL_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_2_F81_seed01.mp4",
+    "prompt": "By a pebble beach with driftwood, a fox is on the right of a chair, then the fox dashes to the left of the chair.",
+    "prompt_id": "testLRFBT_RL_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_2_F81_seed02.mp4",
+    "prompt": "By a pebble beach with driftwood, a fox is on the right of a chair, then the fox dashes to the left of the chair.",
+    "prompt_id": "testLRFBT_RL_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_2_F81_seed03.mp4",
+    "prompt": "By a pebble beach with driftwood, a fox is on the right of a chair, then the fox dashes to the left of the chair.",
+    "prompt_id": "testLRFBT_RL_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_2_F81_seed04.mp4",
+    "prompt": "By a pebble beach with driftwood, a fox is on the right of a chair, then the fox dashes to the left of the chair.",
+    "prompt_id": "testLRFBT_RL_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_3_F81_seed00.mp4",
+    "prompt": "At a fountain plaza with tiles, a bird is on the right of a bench, then the bird flutters to the left of the bench.",
+    "prompt_id": "testLRFBT_RL_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_3_F81_seed01.mp4",
+    "prompt": "At a fountain plaza with tiles, a bird is on the right of a bench, then the bird flutters to the left of the bench.",
+    "prompt_id": "testLRFBT_RL_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_3_F81_seed02.mp4",
+    "prompt": "At a fountain plaza with tiles, a bird is on the right of a bench, then the bird flutters to the left of the bench.",
+    "prompt_id": "testLRFBT_RL_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_3_F81_seed03.mp4",
+    "prompt": "At a fountain plaza with tiles, a bird is on the right of a bench, then the bird flutters to the left of the bench.",
+    "prompt_id": "testLRFBT_RL_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_3_F81_seed04.mp4",
+    "prompt": "At a fountain plaza with tiles, a bird is on the right of a bench, then the bird flutters to the left of the bench.",
+    "prompt_id": "testLRFBT_RL_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_4_F81_seed00.mp4",
+    "prompt": "Inside a sunroom with potted plants, a duck is on the right of a crate, then the duck shuffles to the left of the crate.",
+    "prompt_id": "testLRFBT_RL_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_4_F81_seed01.mp4",
+    "prompt": "Inside a sunroom with potted plants, a duck is on the right of a crate, then the duck shuffles to the left of the crate.",
+    "prompt_id": "testLRFBT_RL_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_4_F81_seed02.mp4",
+    "prompt": "Inside a sunroom with potted plants, a duck is on the right of a crate, then the duck shuffles to the left of the crate.",
+    "prompt_id": "testLRFBT_RL_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_4_F81_seed03.mp4",
+    "prompt": "Inside a sunroom with potted plants, a duck is on the right of a crate, then the duck shuffles to the left of the crate.",
+    "prompt_id": "testLRFBT_RL_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RL_4_F81_seed04.mp4",
+    "prompt": "Inside a sunroom with potted plants, a duck is on the right of a crate, then the duck shuffles to the left of the crate.",
+    "prompt_id": "testLRFBT_RL_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_0_F81_seed00.mp4",
+    "prompt": "At a gazebo with benches, a squirrel is on the right of a stone, then the squirrel scampers to the top of the stone.",
+    "prompt_id": "testLRFBT_RT_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_0_F81_seed01.mp4",
+    "prompt": "At a gazebo with benches, a squirrel is on the right of a stone, then the squirrel scampers to the top of the stone.",
+    "prompt_id": "testLRFBT_RT_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_0_F81_seed02.mp4",
+    "prompt": "At a gazebo with benches, a squirrel is on the right of a stone, then the squirrel scampers to the top of the stone.",
+    "prompt_id": "testLRFBT_RT_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_0_F81_seed03.mp4",
+    "prompt": "At a gazebo with benches, a squirrel is on the right of a stone, then the squirrel scampers to the top of the stone.",
+    "prompt_id": "testLRFBT_RT_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_0_F81_seed04.mp4",
+    "prompt": "At a gazebo with benches, a squirrel is on the right of a stone, then the squirrel scampers to the top of the stone.",
+    "prompt_id": "testLRFBT_RT_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_1_F81_seed00.mp4",
+    "prompt": "On a slope with stepping stones, a cat is on the right of a lamp, then the cat paces to the top of the lamp.",
+    "prompt_id": "testLRFBT_RT_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_1_F81_seed01.mp4",
+    "prompt": "On a slope with stepping stones, a cat is on the right of a lamp, then the cat paces to the top of the lamp.",
+    "prompt_id": "testLRFBT_RT_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_1_F81_seed02.mp4",
+    "prompt": "On a slope with stepping stones, a cat is on the right of a lamp, then the cat paces to the top of the lamp.",
+    "prompt_id": "testLRFBT_RT_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_1_F81_seed03.mp4",
+    "prompt": "On a slope with stepping stones, a cat is on the right of a lamp, then the cat paces to the top of the lamp.",
+    "prompt_id": "testLRFBT_RT_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_1_F81_seed04.mp4",
+    "prompt": "On a slope with stepping stones, a cat is on the right of a lamp, then the cat paces to the top of the lamp.",
+    "prompt_id": "testLRFBT_RT_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_2_F81_seed00.mp4",
+    "prompt": "By a trailhead signpost, a dog is on the right of a chair, then the dog runs to the top of the chair.",
+    "prompt_id": "testLRFBT_RT_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_2_F81_seed01.mp4",
+    "prompt": "By a trailhead signpost, a dog is on the right of a chair, then the dog runs to the top of the chair.",
+    "prompt_id": "testLRFBT_RT_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_2_F81_seed02.mp4",
+    "prompt": "By a trailhead signpost, a dog is on the right of a chair, then the dog runs to the top of the chair.",
+    "prompt_id": "testLRFBT_RT_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_2_F81_seed03.mp4",
+    "prompt": "By a trailhead signpost, a dog is on the right of a chair, then the dog runs to the top of the chair.",
+    "prompt_id": "testLRFBT_RT_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_2_F81_seed04.mp4",
+    "prompt": "By a trailhead signpost, a dog is on the right of a chair, then the dog runs to the top of the chair.",
+    "prompt_id": "testLRFBT_RT_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_3_F81_seed00.mp4",
+    "prompt": "In a colonnade with pillars, a fox is on the right of a bench, then the fox sprints to the top of the bench.",
+    "prompt_id": "testLRFBT_RT_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_3_F81_seed01.mp4",
+    "prompt": "In a colonnade with pillars, a fox is on the right of a bench, then the fox sprints to the top of the bench.",
+    "prompt_id": "testLRFBT_RT_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_3_F81_seed02.mp4",
+    "prompt": "In a colonnade with pillars, a fox is on the right of a bench, then the fox sprints to the top of the bench.",
+    "prompt_id": "testLRFBT_RT_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_3_F81_seed03.mp4",
+    "prompt": "In a colonnade with pillars, a fox is on the right of a bench, then the fox sprints to the top of the bench.",
+    "prompt_id": "testLRFBT_RT_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_3_F81_seed04.mp4",
+    "prompt": "In a colonnade with pillars, a fox is on the right of a bench, then the fox sprints to the top of the bench.",
+    "prompt_id": "testLRFBT_RT_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_4_F81_seed00.mp4",
+    "prompt": "At a riverside promenade with lamps, a bird is on the right of a crate, then the bird pecks to the top of the crate.",
+    "prompt_id": "testLRFBT_RT_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_4_F81_seed01.mp4",
+    "prompt": "At a riverside promenade with lamps, a bird is on the right of a crate, then the bird pecks to the top of the crate.",
+    "prompt_id": "testLRFBT_RT_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_4_F81_seed02.mp4",
+    "prompt": "At a riverside promenade with lamps, a bird is on the right of a crate, then the bird pecks to the top of the crate.",
+    "prompt_id": "testLRFBT_RT_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_4_F81_seed03.mp4",
+    "prompt": "At a riverside promenade with lamps, a bird is on the right of a crate, then the bird pecks to the top of the crate.",
+    "prompt_id": "testLRFBT_RT_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_RT_4_F81_seed04.mp4",
+    "prompt": "At a riverside promenade with lamps, a bird is on the right of a crate, then the bird pecks to the top of the crate.",
+    "prompt_id": "testLRFBT_RT_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_0_F81_seed00.mp4",
+    "prompt": "At a pergola featuring climbing vines, a monkey is on the top of a log, then the monkey leaps to the left of the log.",
+    "prompt_id": "testLRFBT_TL_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_0_F81_seed01.mp4",
+    "prompt": "At a pergola featuring climbing vines, a monkey is on the top of a log, then the monkey leaps to the left of the log.",
+    "prompt_id": "testLRFBT_TL_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_0_F81_seed02.mp4",
+    "prompt": "At a pergola featuring climbing vines, a monkey is on the top of a log, then the monkey leaps to the left of the log.",
+    "prompt_id": "testLRFBT_TL_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_0_F81_seed03.mp4",
+    "prompt": "At a pergola featuring climbing vines, a monkey is on the top of a log, then the monkey leaps to the left of the log.",
+    "prompt_id": "testLRFBT_TL_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_0_F81_seed04.mp4",
+    "prompt": "At a pergola featuring climbing vines, a monkey is on the top of a log, then the monkey leaps to the left of the log.",
+    "prompt_id": "testLRFBT_TL_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_1_F81_seed00.mp4",
+    "prompt": "At a pergola showing climbing vines, a turtle is on the top of a bench, then the turtle shuffles to the left of the bench.",
+    "prompt_id": "testLRFBT_TL_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_1_F81_seed01.mp4",
+    "prompt": "At a pergola showing climbing vines, a turtle is on the top of a bench, then the turtle shuffles to the left of the bench.",
+    "prompt_id": "testLRFBT_TL_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_1_F81_seed02.mp4",
+    "prompt": "At a pergola showing climbing vines, a turtle is on the top of a bench, then the turtle shuffles to the left of the bench.",
+    "prompt_id": "testLRFBT_TL_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_1_F81_seed03.mp4",
+    "prompt": "At a pergola showing climbing vines, a turtle is on the top of a bench, then the turtle shuffles to the left of the bench.",
+    "prompt_id": "testLRFBT_TL_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_1_F81_seed04.mp4",
+    "prompt": "At a pergola showing climbing vines, a turtle is on the top of a bench, then the turtle shuffles to the left of the bench.",
+    "prompt_id": "testLRFBT_TL_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_2_F81_seed00.mp4",
+    "prompt": "Inside a gallery featuring white walls, a rabbit is on the top of a stone, then the rabbit jumps to the left of the stone.",
+    "prompt_id": "testLRFBT_TL_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_2_F81_seed01.mp4",
+    "prompt": "Inside a gallery featuring white walls, a rabbit is on the top of a stone, then the rabbit jumps to the left of the stone.",
+    "prompt_id": "testLRFBT_TL_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_2_F81_seed02.mp4",
+    "prompt": "Inside a gallery featuring white walls, a rabbit is on the top of a stone, then the rabbit jumps to the left of the stone.",
+    "prompt_id": "testLRFBT_TL_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_2_F81_seed03.mp4",
+    "prompt": "Inside a gallery featuring white walls, a rabbit is on the top of a stone, then the rabbit jumps to the left of the stone.",
+    "prompt_id": "testLRFBT_TL_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_2_F81_seed04.mp4",
+    "prompt": "Inside a gallery featuring white walls, a rabbit is on the top of a stone, then the rabbit jumps to the left of the stone.",
+    "prompt_id": "testLRFBT_TL_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_3_F81_seed00.mp4",
+    "prompt": "Inside a gallery showing white walls, a squirrel is on the top of a desk, then the squirrel scampers to the left of the desk.",
+    "prompt_id": "testLRFBT_TL_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_3_F81_seed01.mp4",
+    "prompt": "Inside a gallery showing white walls, a squirrel is on the top of a desk, then the squirrel scampers to the left of the desk.",
+    "prompt_id": "testLRFBT_TL_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_3_F81_seed02.mp4",
+    "prompt": "Inside a gallery showing white walls, a squirrel is on the top of a desk, then the squirrel scampers to the left of the desk.",
+    "prompt_id": "testLRFBT_TL_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_3_F81_seed03.mp4",
+    "prompt": "Inside a gallery showing white walls, a squirrel is on the top of a desk, then the squirrel scampers to the left of the desk.",
+    "prompt_id": "testLRFBT_TL_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_3_F81_seed04.mp4",
+    "prompt": "Inside a gallery showing white walls, a squirrel is on the top of a desk, then the squirrel scampers to the left of the desk.",
+    "prompt_id": "testLRFBT_TL_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_4_F81_seed00.mp4",
+    "prompt": "On a courtyard deck featuring lanterns, a cat is on the top of a table, then the cat paces to the left of the table.",
+    "prompt_id": "testLRFBT_TL_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_4_F81_seed01.mp4",
+    "prompt": "On a courtyard deck featuring lanterns, a cat is on the top of a table, then the cat paces to the left of the table.",
+    "prompt_id": "testLRFBT_TL_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_4_F81_seed02.mp4",
+    "prompt": "On a courtyard deck featuring lanterns, a cat is on the top of a table, then the cat paces to the left of the table.",
+    "prompt_id": "testLRFBT_TL_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_4_F81_seed03.mp4",
+    "prompt": "On a courtyard deck featuring lanterns, a cat is on the top of a table, then the cat paces to the left of the table.",
+    "prompt_id": "testLRFBT_TL_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TL_4_F81_seed04.mp4",
+    "prompt": "On a courtyard deck featuring lanterns, a cat is on the top of a table, then the cat paces to the left of the table.",
+    "prompt_id": "testLRFBT_TL_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_0_F81_seed00.mp4",
+    "prompt": "On a courtyard deck showing lanterns, a squirrel is on the top of a stone, then the squirrel darts to the right of the stone.",
+    "prompt_id": "testLRFBT_TR_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_0_F81_seed01.mp4",
+    "prompt": "On a courtyard deck showing lanterns, a squirrel is on the top of a stone, then the squirrel darts to the right of the stone.",
+    "prompt_id": "testLRFBT_TR_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_0_F81_seed02.mp4",
+    "prompt": "On a courtyard deck showing lanterns, a squirrel is on the top of a stone, then the squirrel darts to the right of the stone.",
+    "prompt_id": "testLRFBT_TR_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_0_F81_seed03.mp4",
+    "prompt": "On a courtyard deck showing lanterns, a squirrel is on the top of a stone, then the squirrel darts to the right of the stone.",
+    "prompt_id": "testLRFBT_TR_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_0_F81_seed04.mp4",
+    "prompt": "On a courtyard deck showing lanterns, a squirrel is on the top of a stone, then the squirrel darts to the right of the stone.",
+    "prompt_id": "testLRFBT_TR_0",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_1_F81_seed00.mp4",
+    "prompt": "Near a hedgerow featuring sparrows, a cat is on the top of a desk, then the cat sneaks to the right of the desk.",
+    "prompt_id": "testLRFBT_TR_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_1_F81_seed01.mp4",
+    "prompt": "Near a hedgerow featuring sparrows, a cat is on the top of a desk, then the cat sneaks to the right of the desk.",
+    "prompt_id": "testLRFBT_TR_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_1_F81_seed02.mp4",
+    "prompt": "Near a hedgerow featuring sparrows, a cat is on the top of a desk, then the cat sneaks to the right of the desk.",
+    "prompt_id": "testLRFBT_TR_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_1_F81_seed03.mp4",
+    "prompt": "Near a hedgerow featuring sparrows, a cat is on the top of a desk, then the cat sneaks to the right of the desk.",
+    "prompt_id": "testLRFBT_TR_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_1_F81_seed04.mp4",
+    "prompt": "Near a hedgerow featuring sparrows, a cat is on the top of a desk, then the cat sneaks to the right of the desk.",
+    "prompt_id": "testLRFBT_TR_1",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_2_F81_seed00.mp4",
+    "prompt": "Near a hedgerow showing sparrows, a dog is on the top of a bench, then the dog trots to the right of the bench.",
+    "prompt_id": "testLRFBT_TR_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_2_F81_seed01.mp4",
+    "prompt": "Near a hedgerow showing sparrows, a dog is on the top of a bench, then the dog trots to the right of the bench.",
+    "prompt_id": "testLRFBT_TR_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_2_F81_seed02.mp4",
+    "prompt": "Near a hedgerow showing sparrows, a dog is on the top of a bench, then the dog trots to the right of the bench.",
+    "prompt_id": "testLRFBT_TR_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_2_F81_seed03.mp4",
+    "prompt": "Near a hedgerow showing sparrows, a dog is on the top of a bench, then the dog trots to the right of the bench.",
+    "prompt_id": "testLRFBT_TR_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_2_F81_seed04.mp4",
+    "prompt": "Near a hedgerow showing sparrows, a dog is on the top of a bench, then the dog trots to the right of the bench.",
+    "prompt_id": "testLRFBT_TR_2",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_3_F81_seed00.mp4",
+    "prompt": "By a canal featuring brick edges, a fox is on the top of a chair, then the fox trots to the right of the chair.",
+    "prompt_id": "testLRFBT_TR_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_3_F81_seed01.mp4",
+    "prompt": "By a canal featuring brick edges, a fox is on the top of a chair, then the fox trots to the right of the chair.",
+    "prompt_id": "testLRFBT_TR_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_3_F81_seed02.mp4",
+    "prompt": "By a canal featuring brick edges, a fox is on the top of a chair, then the fox trots to the right of the chair.",
+    "prompt_id": "testLRFBT_TR_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_3_F81_seed03.mp4",
+    "prompt": "By a canal featuring brick edges, a fox is on the top of a chair, then the fox trots to the right of the chair.",
+    "prompt_id": "testLRFBT_TR_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_3_F81_seed04.mp4",
+    "prompt": "By a canal featuring brick edges, a fox is on the top of a chair, then the fox trots to the right of the chair.",
+    "prompt_id": "testLRFBT_TR_3",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_4_F81_seed00.mp4",
+    "prompt": "By a canal showing brick edges, a bird is on the top of a crate, then the bird hops to the right of the crate.",
+    "prompt_id": "testLRFBT_TR_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_4_F81_seed01.mp4",
+    "prompt": "By a canal showing brick edges, a bird is on the top of a crate, then the bird hops to the right of the crate.",
+    "prompt_id": "testLRFBT_TR_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_4_F81_seed02.mp4",
+    "prompt": "By a canal showing brick edges, a bird is on the top of a crate, then the bird hops to the right of the crate.",
+    "prompt_id": "testLRFBT_TR_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_4_F81_seed03.mp4",
+    "prompt": "By a canal showing brick edges, a bird is on the top of a crate, then the bird hops to the right of the crate.",
+    "prompt_id": "testLRFBT_TR_4",
+    "dummy": "dummy"
+  },
+  {
+    "video": "testLRFBT_TR_4_F81_seed04.mp4",
+    "prompt": "By a canal showing brick edges, a bird is on the top of a crate, then the bird hops to the right of the crate.",
+    "prompt_id": "testLRFBT_TR_4",
     "dummy": "dummy"
   }
 ]
