@@ -6,29 +6,30 @@ body {
   background: #ffffff;
   color: #000000;
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  overflow-x: hidden; /* 防止横向滚动条 */
 }
 
+/* ===== 页面整体缩放容器 ===== */
+#scale-root {
+  transform-origin: top left;
+  width: 1200px;          /* 设计基准宽度（关键） */
+}
+
+/* ===== 标题 ===== */
 .page-title {
   font-size: 28px;
   font-weight: 600;
   margin: 0 0 28px 0;
 }
 
-/* 关键：一行 3 个 item（即 3 对视频） */
+/* ===== 固定 3 列布局（永不变化） ===== */
 #container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 32px;
 }
 
-/* 响应式降列数 */
-@media (max-width: 1200px) {
-  #container { grid-template-columns: repeat(2, 1fr); }
-}
-@media (max-width: 800px) {
-  #container { grid-template-columns: 1fr; }
-}
-
+/* ===== 单个 item ===== */
 .item {
   display: flex;
   flex-direction: column;
