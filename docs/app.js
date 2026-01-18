@@ -67,11 +67,11 @@ fetch("./data.json", { cache: "no-store" })
             <div class="video-col">
               <div class="video-label">Finetuned</div>
               <video autoplay muted loop playsinline preload="metadata"
-                src="${videoPath("finetuned", v)}"></video>
+                src="${videoPath("finetune", v)}"></video>
 
               <img class="curve"
-                src="${curvePath("finetuned_score", v)}"
-                alt="DSR curve (finetuned)"
+                src="${curvePath("finetune_score", v)}"
+                alt="DSR curve (finetune)"
                 loading="lazy"
                 onerror="this.style.display='none';">
             </div>
