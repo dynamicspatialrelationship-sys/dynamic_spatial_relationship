@@ -1,110 +1,60 @@
-:root{
-  --bg:#ffffff;
-  --panel:#ffffff;
-  --text:#000000;
-  --muted:#5c6b7a;
-  --border:rgba(0,0,0,0.12);
-  --radius:14px;
+* {
+  box-sizing: border-box;
 }
 
-*{ box-sizing:border-box; }
-
-body{
-  margin:0;
-  background:var(--bg);
-  color:var(--text);
+body {
+  margin: 0;
+  padding: 32px;
+  background: #ffffff;
+  color: #000000;
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
 }
 
-/* =========================
-   Top bar
-   ========================= */
-.topbar{
-  position:sticky;
-  top:0;
-  background:#ffffff;
-  border-bottom:1px solid var(--border);
-  z-index:10;
+/* Page title */
+.page-title {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 32px;
 }
 
-.brand{
-  padding:16px;
+/* One example block */
+.item {
+  margin-bottom: 48px;
 }
 
-.title{
-  font-size:20px;
-  font-weight:600;
-  color:#000000;
+/* Prompt text */
+.prompt {
+  font-size: 15px;
+  line-height: 1.5;
+  margin-bottom: 12px;
 }
 
-.subtitle{
-  font-size:13px;
-  color:var(--muted);
+/* Video row */
+.videos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
 }
 
-/* =========================
-   Controls
-   ========================= */
-.controls{
-  display:flex;
-  gap:10px;
-  padding:10px 16px 16px;
-  flex-wrap:wrap;
+@media (max-width: 900px) {
+  .videos {
+    grid-template-columns: 1fr;
+  }
 }
 
-input,
-select{
-  background:#ffffff;
-  border:1px solid var(--border);
-  color:#000000;
-  padding:6px 10px;
-  border-radius:10px;
+.video-col {
+  display: flex;
+  flex-direction: column;
 }
 
-input::placeholder{
-  color:#9aa4af;
+.video-label {
+  font-size: 13px;
+  margin-bottom: 6px;
+  color: #444;
 }
 
-.toggle{
-  display:flex;
-  align-items:center;
-  gap:6px;
-  color:var(--muted);
+video {
+  width: 100%;
+  background: #f2f2f2;
+  border: 1px solid #ddd;
 }
-
-/* =========================
-   Main layout
-   ========================= */
-main{
-  padding:16px;
-  max-width:1400px;
-  margin:auto;
-}
-
-.meta{
-  font-size:13px;
-  color:var(--muted);
-  margin-bottom:12px;
-}
-
-.grid{
-  display:grid;
-  grid-template-columns:repeat(2,1fr);
-  gap:14px;
-}
-
-@media(max-width:900px){
-  .grid{ grid-template-columns:1fr; }
-}
-
-/* =========================
-   Cards
-   ========================= */
-.card{
-  background:#ffffff;
-  border:1px solid var(--border);
-  border-radius:var(--radius);
-  overflow:hidden;
-}
-
-.cardHeader{
