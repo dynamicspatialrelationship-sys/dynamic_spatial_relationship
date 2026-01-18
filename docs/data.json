@@ -898,5 +898,3605 @@
     "prompt": "By a canal showing brick edges, a bird is on the top of a crate, then the bird hops to the right of the crate.",
     "prompt_id": "testLRFBT_TR_4",
     "dummy": "dummy"
+  },
+  {
+    "video": "1043_TL_F81_seed00.mp4",
+    "prompt": "In a narrow hallway with a large window and a coat rack by the door, a squirrel is on the top of a box, then the squirrel jumps to the left of the box.",
+    "prompt_id": "1043_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1043_TL_F81_seed01.mp4",
+    "prompt": "In a narrow hallway with a large window and a coat rack by the door, a squirrel is on the top of a box, then the squirrel jumps to the left of the box.",
+    "prompt_id": "1043_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1043_TL_F81_seed02.mp4",
+    "prompt": "In a narrow hallway with a large window and a coat rack by the door, a squirrel is on the top of a box, then the squirrel jumps to the left of the box.",
+    "prompt_id": "1043_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1043_TL_F81_seed03.mp4",
+    "prompt": "In a narrow hallway with a large window and a coat rack by the door, a squirrel is on the top of a box, then the squirrel jumps to the left of the box.",
+    "prompt_id": "1043_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1043_TL_F81_seed04.mp4",
+    "prompt": "In a narrow hallway with a large window and a coat rack by the door, a squirrel is on the top of a box, then the squirrel jumps to the left of the box.",
+    "prompt_id": "1043_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1046_LT_F81_seed00.mp4",
+    "prompt": "In a narrow studio with soft cushions and sunlight spilling across the floor, a rabbit is on the left of a chair, then the rabbit hops to the top of the chair.",
+    "prompt_id": "1046_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1046_LT_F81_seed01.mp4",
+    "prompt": "In a narrow studio with soft cushions and sunlight spilling across the floor, a rabbit is on the left of a chair, then the rabbit hops to the top of the chair.",
+    "prompt_id": "1046_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1046_LT_F81_seed02.mp4",
+    "prompt": "In a narrow studio with soft cushions and sunlight spilling across the floor, a rabbit is on the left of a chair, then the rabbit hops to the top of the chair.",
+    "prompt_id": "1046_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1046_LT_F81_seed03.mp4",
+    "prompt": "In a narrow studio with soft cushions and sunlight spilling across the floor, a rabbit is on the left of a chair, then the rabbit hops to the top of the chair.",
+    "prompt_id": "1046_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1046_LT_F81_seed04.mp4",
+    "prompt": "In a narrow studio with soft cushions and sunlight spilling across the floor, a rabbit is on the left of a chair, then the rabbit hops to the top of the chair.",
+    "prompt_id": "1046_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1049_RT_F81_seed00.mp4",
+    "prompt": "In a narrow library corner with a large window and shadows from the window blinds, a cat is on the right of a pot, then the cat paces to the top of the pot.",
+    "prompt_id": "1049_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1049_RT_F81_seed01.mp4",
+    "prompt": "In a narrow library corner with a large window and shadows from the window blinds, a cat is on the right of a pot, then the cat paces to the top of the pot.",
+    "prompt_id": "1049_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1049_RT_F81_seed02.mp4",
+    "prompt": "In a narrow library corner with a large window and shadows from the window blinds, a cat is on the right of a pot, then the cat paces to the top of the pot.",
+    "prompt_id": "1049_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1049_RT_F81_seed03.mp4",
+    "prompt": "In a narrow library corner with a large window and shadows from the window blinds, a cat is on the right of a pot, then the cat paces to the top of the pot.",
+    "prompt_id": "1049_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1049_RT_F81_seed04.mp4",
+    "prompt": "In a narrow library corner with a large window and shadows from the window blinds, a cat is on the right of a pot, then the cat paces to the top of the pot.",
+    "prompt_id": "1049_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1053_LT_F81_seed00.mp4",
+    "prompt": "In a narrow loft space with a floor lamp and warm light from a nearby lamp, a bird is on the left of a box, then the bird pecks to the top of the box.",
+    "prompt_id": "1053_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1053_LT_F81_seed01.mp4",
+    "prompt": "In a narrow loft space with a floor lamp and warm light from a nearby lamp, a bird is on the left of a box, then the bird pecks to the top of the box.",
+    "prompt_id": "1053_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1053_LT_F81_seed02.mp4",
+    "prompt": "In a narrow loft space with a floor lamp and warm light from a nearby lamp, a bird is on the left of a box, then the bird pecks to the top of the box.",
+    "prompt_id": "1053_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1053_LT_F81_seed03.mp4",
+    "prompt": "In a narrow loft space with a floor lamp and warm light from a nearby lamp, a bird is on the left of a box, then the bird pecks to the top of the box.",
+    "prompt_id": "1053_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1053_LT_F81_seed04.mp4",
+    "prompt": "In a narrow loft space with a floor lamp and warm light from a nearby lamp, a bird is on the left of a box, then the bird pecks to the top of the box.",
+    "prompt_id": "1053_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1054_RL_F81_seed00.mp4",
+    "prompt": "In a quiet studio with a low table and shadows from the window blinds, a hamster is on the right of a pot, then the hamster crawls to the left of the pot.",
+    "prompt_id": "1054_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1054_RL_F81_seed01.mp4",
+    "prompt": "In a quiet studio with a low table and shadows from the window blinds, a hamster is on the right of a pot, then the hamster crawls to the left of the pot.",
+    "prompt_id": "1054_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1054_RL_F81_seed02.mp4",
+    "prompt": "In a quiet studio with a low table and shadows from the window blinds, a hamster is on the right of a pot, then the hamster crawls to the left of the pot.",
+    "prompt_id": "1054_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1054_RL_F81_seed03.mp4",
+    "prompt": "In a quiet studio with a low table and shadows from the window blinds, a hamster is on the right of a pot, then the hamster crawls to the left of the pot.",
+    "prompt_id": "1054_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1054_RL_F81_seed04.mp4",
+    "prompt": "In a quiet studio with a low table and shadows from the window blinds, a hamster is on the right of a pot, then the hamster crawls to the left of the pot.",
+    "prompt_id": "1054_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1062_TL_F81_seed00.mp4",
+    "prompt": "In a spacious reading nook with pillows on the floor and sunlight spilling across the floor, a rabbit is on the top of a chair, then the rabbit jumps to the left of the chair.",
+    "prompt_id": "1062_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1062_TL_F81_seed01.mp4",
+    "prompt": "In a spacious reading nook with pillows on the floor and sunlight spilling across the floor, a rabbit is on the top of a chair, then the rabbit jumps to the left of the chair.",
+    "prompt_id": "1062_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1062_TL_F81_seed02.mp4",
+    "prompt": "In a spacious reading nook with pillows on the floor and sunlight spilling across the floor, a rabbit is on the top of a chair, then the rabbit jumps to the left of the chair.",
+    "prompt_id": "1062_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1062_TL_F81_seed03.mp4",
+    "prompt": "In a spacious reading nook with pillows on the floor and sunlight spilling across the floor, a rabbit is on the top of a chair, then the rabbit jumps to the left of the chair.",
+    "prompt_id": "1062_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1062_TL_F81_seed04.mp4",
+    "prompt": "In a spacious reading nook with pillows on the floor and sunlight spilling across the floor, a rabbit is on the top of a chair, then the rabbit jumps to the left of the chair.",
+    "prompt_id": "1062_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1065_RT_F81_seed00.mp4",
+    "prompt": "In a cozy library corner with a low table and small ornaments on the shelves, a dog is on the right of a cushion, then the dog runs to the top of the cushion.",
+    "prompt_id": "1065_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1065_RT_F81_seed01.mp4",
+    "prompt": "In a cozy library corner with a low table and small ornaments on the shelves, a dog is on the right of a cushion, then the dog runs to the top of the cushion.",
+    "prompt_id": "1065_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1065_RT_F81_seed02.mp4",
+    "prompt": "In a cozy library corner with a low table and small ornaments on the shelves, a dog is on the right of a cushion, then the dog runs to the top of the cushion.",
+    "prompt_id": "1065_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1065_RT_F81_seed03.mp4",
+    "prompt": "In a cozy library corner with a low table and small ornaments on the shelves, a dog is on the right of a cushion, then the dog runs to the top of the cushion.",
+    "prompt_id": "1065_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1065_RT_F81_seed04.mp4",
+    "prompt": "In a cozy library corner with a low table and small ornaments on the shelves, a dog is on the right of a cushion, then the dog runs to the top of the cushion.",
+    "prompt_id": "1065_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1066_LR_F81_seed00.mp4",
+    "prompt": "In a spacious loft space with wooden floors and a coat rack by the door, a bird is on the left of a sofa, then the bird flutters to the right of the sofa.",
+    "prompt_id": "1066_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1066_LR_F81_seed01.mp4",
+    "prompt": "In a spacious loft space with wooden floors and a coat rack by the door, a bird is on the left of a sofa, then the bird flutters to the right of the sofa.",
+    "prompt_id": "1066_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1066_LR_F81_seed02.mp4",
+    "prompt": "In a spacious loft space with wooden floors and a coat rack by the door, a bird is on the left of a sofa, then the bird flutters to the right of the sofa.",
+    "prompt_id": "1066_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1066_LR_F81_seed03.mp4",
+    "prompt": "In a spacious loft space with wooden floors and a coat rack by the door, a bird is on the left of a sofa, then the bird flutters to the right of the sofa.",
+    "prompt_id": "1066_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1066_LR_F81_seed04.mp4",
+    "prompt": "In a spacious loft space with wooden floors and a coat rack by the door, a bird is on the left of a sofa, then the bird flutters to the right of the sofa.",
+    "prompt_id": "1066_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1070_TR_F81_seed00.mp4",
+    "prompt": "In a sunlit studio with soft cushions and a potted plant by the wall, a squirrel is on the top of a box, then the squirrel jumps to the right of the box.",
+    "prompt_id": "1070_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1070_TR_F81_seed01.mp4",
+    "prompt": "In a sunlit studio with soft cushions and a potted plant by the wall, a squirrel is on the top of a box, then the squirrel jumps to the right of the box.",
+    "prompt_id": "1070_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1070_TR_F81_seed02.mp4",
+    "prompt": "In a sunlit studio with soft cushions and a potted plant by the wall, a squirrel is on the top of a box, then the squirrel jumps to the right of the box.",
+    "prompt_id": "1070_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1070_TR_F81_seed03.mp4",
+    "prompt": "In a sunlit studio with soft cushions and a potted plant by the wall, a squirrel is on the top of a box, then the squirrel jumps to the right of the box.",
+    "prompt_id": "1070_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1070_TR_F81_seed04.mp4",
+    "prompt": "In a sunlit studio with soft cushions and a potted plant by the wall, a squirrel is on the top of a box, then the squirrel jumps to the right of the box.",
+    "prompt_id": "1070_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1084_TR_F81_seed00.mp4",
+    "prompt": "In a warm storage room with a patterned rug and a stack of magazines on a table, a rabbit is on the top of a sofa, then the rabbit jumps to the right of the sofa.",
+    "prompt_id": "1084_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1084_TR_F81_seed01.mp4",
+    "prompt": "In a warm storage room with a patterned rug and a stack of magazines on a table, a rabbit is on the top of a sofa, then the rabbit jumps to the right of the sofa.",
+    "prompt_id": "1084_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1084_TR_F81_seed02.mp4",
+    "prompt": "In a warm storage room with a patterned rug and a stack of magazines on a table, a rabbit is on the top of a sofa, then the rabbit jumps to the right of the sofa.",
+    "prompt_id": "1084_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1084_TR_F81_seed03.mp4",
+    "prompt": "In a warm storage room with a patterned rug and a stack of magazines on a table, a rabbit is on the top of a sofa, then the rabbit jumps to the right of the sofa.",
+    "prompt_id": "1084_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1084_TR_F81_seed04.mp4",
+    "prompt": "In a warm storage room with a patterned rug and a stack of magazines on a table, a rabbit is on the top of a sofa, then the rabbit jumps to the right of the sofa.",
+    "prompt_id": "1084_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1086_RL_F81_seed00.mp4",
+    "prompt": "In a bright workshop with a large window and small ornaments on the shelves, a dog is on the right of a stool, then the dog walks to the left of the stool.",
+    "prompt_id": "1086_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1086_RL_F81_seed01.mp4",
+    "prompt": "In a bright workshop with a large window and small ornaments on the shelves, a dog is on the right of a stool, then the dog walks to the left of the stool.",
+    "prompt_id": "1086_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1086_RL_F81_seed02.mp4",
+    "prompt": "In a bright workshop with a large window and small ornaments on the shelves, a dog is on the right of a stool, then the dog walks to the left of the stool.",
+    "prompt_id": "1086_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1086_RL_F81_seed03.mp4",
+    "prompt": "In a bright workshop with a large window and small ornaments on the shelves, a dog is on the right of a stool, then the dog walks to the left of the stool.",
+    "prompt_id": "1086_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1086_RL_F81_seed04.mp4",
+    "prompt": "In a bright workshop with a large window and small ornaments on the shelves, a dog is on the right of a stool, then the dog walks to the left of the stool.",
+    "prompt_id": "1086_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1099_RL_F81_seed00.mp4",
+    "prompt": "In a spacious library corner with a large window and sunlight spilling across the floor, a cat is on the right of a chair, then the cat walks to the left of the chair.",
+    "prompt_id": "1099_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1099_RL_F81_seed01.mp4",
+    "prompt": "In a spacious library corner with a large window and sunlight spilling across the floor, a cat is on the right of a chair, then the cat walks to the left of the chair.",
+    "prompt_id": "1099_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1099_RL_F81_seed02.mp4",
+    "prompt": "In a spacious library corner with a large window and sunlight spilling across the floor, a cat is on the right of a chair, then the cat walks to the left of the chair.",
+    "prompt_id": "1099_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1099_RL_F81_seed03.mp4",
+    "prompt": "In a spacious library corner with a large window and sunlight spilling across the floor, a cat is on the right of a chair, then the cat walks to the left of the chair.",
+    "prompt_id": "1099_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1099_RL_F81_seed04.mp4",
+    "prompt": "In a spacious library corner with a large window and sunlight spilling across the floor, a cat is on the right of a chair, then the cat walks to the left of the chair.",
+    "prompt_id": "1099_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1100_LT_F81_seed00.mp4",
+    "prompt": "In a quiet hallway with a floor lamp and a mug left on a side table, a cat is on the left of a sofa, then the cat jumps to the top of the sofa.",
+    "prompt_id": "1100_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1100_LT_F81_seed01.mp4",
+    "prompt": "In a quiet hallway with a floor lamp and a mug left on a side table, a cat is on the left of a sofa, then the cat jumps to the top of the sofa.",
+    "prompt_id": "1100_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1100_LT_F81_seed02.mp4",
+    "prompt": "In a quiet hallway with a floor lamp and a mug left on a side table, a cat is on the left of a sofa, then the cat jumps to the top of the sofa.",
+    "prompt_id": "1100_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1100_LT_F81_seed03.mp4",
+    "prompt": "In a quiet hallway with a floor lamp and a mug left on a side table, a cat is on the left of a sofa, then the cat jumps to the top of the sofa.",
+    "prompt_id": "1100_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1100_LT_F81_seed04.mp4",
+    "prompt": "In a quiet hallway with a floor lamp and a mug left on a side table, a cat is on the left of a sofa, then the cat jumps to the top of the sofa.",
+    "prompt_id": "1100_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1105_TR_F81_seed00.mp4",
+    "prompt": "In a bright storage room with a low table and shadows from the window blinds, a fox is on the top of a pot, then the fox trots to the right of the pot.",
+    "prompt_id": "1105_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1105_TR_F81_seed01.mp4",
+    "prompt": "In a bright storage room with a low table and shadows from the window blinds, a fox is on the top of a pot, then the fox trots to the right of the pot.",
+    "prompt_id": "1105_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1105_TR_F81_seed02.mp4",
+    "prompt": "In a bright storage room with a low table and shadows from the window blinds, a fox is on the top of a pot, then the fox trots to the right of the pot.",
+    "prompt_id": "1105_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1105_TR_F81_seed03.mp4",
+    "prompt": "In a bright storage room with a low table and shadows from the window blinds, a fox is on the top of a pot, then the fox trots to the right of the pot.",
+    "prompt_id": "1105_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1105_TR_F81_seed04.mp4",
+    "prompt": "In a bright storage room with a low table and shadows from the window blinds, a fox is on the top of a pot, then the fox trots to the right of the pot.",
+    "prompt_id": "1105_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1114_LT_F81_seed00.mp4",
+    "prompt": "In a bright storage room with soft cushions and a potted plant by the wall, a duck is on the left of a pot, then the duck shuffles to the top of the pot.",
+    "prompt_id": "1114_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1114_LT_F81_seed01.mp4",
+    "prompt": "In a bright storage room with soft cushions and a potted plant by the wall, a duck is on the left of a pot, then the duck shuffles to the top of the pot.",
+    "prompt_id": "1114_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1114_LT_F81_seed02.mp4",
+    "prompt": "In a bright storage room with soft cushions and a potted plant by the wall, a duck is on the left of a pot, then the duck shuffles to the top of the pot.",
+    "prompt_id": "1114_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1114_LT_F81_seed03.mp4",
+    "prompt": "In a bright storage room with soft cushions and a potted plant by the wall, a duck is on the left of a pot, then the duck shuffles to the top of the pot.",
+    "prompt_id": "1114_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1114_LT_F81_seed04.mp4",
+    "prompt": "In a bright storage room with soft cushions and a potted plant by the wall, a duck is on the left of a pot, then the duck shuffles to the top of the pot.",
+    "prompt_id": "1114_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1117_TL_F81_seed00.mp4",
+    "prompt": "In a cozy reading nook with a large window and heavy curtains drawn halfway, a hamster is on the top of a stool, then the hamster crawls to the left of the stool.",
+    "prompt_id": "1117_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1117_TL_F81_seed01.mp4",
+    "prompt": "In a cozy reading nook with a large window and heavy curtains drawn halfway, a hamster is on the top of a stool, then the hamster crawls to the left of the stool.",
+    "prompt_id": "1117_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1117_TL_F81_seed02.mp4",
+    "prompt": "In a cozy reading nook with a large window and heavy curtains drawn halfway, a hamster is on the top of a stool, then the hamster crawls to the left of the stool.",
+    "prompt_id": "1117_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1117_TL_F81_seed03.mp4",
+    "prompt": "In a cozy reading nook with a large window and heavy curtains drawn halfway, a hamster is on the top of a stool, then the hamster crawls to the left of the stool.",
+    "prompt_id": "1117_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1117_TL_F81_seed04.mp4",
+    "prompt": "In a cozy reading nook with a large window and heavy curtains drawn halfway, a hamster is on the top of a stool, then the hamster crawls to the left of the stool.",
+    "prompt_id": "1117_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1118_RT_F81_seed00.mp4",
+    "prompt": "In a quiet study with a low table and a potted plant by the wall, a hamster is on the right of a basket, then the hamster climbs to the top of the basket.",
+    "prompt_id": "1118_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1118_RT_F81_seed01.mp4",
+    "prompt": "In a quiet study with a low table and a potted plant by the wall, a hamster is on the right of a basket, then the hamster climbs to the top of the basket.",
+    "prompt_id": "1118_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1118_RT_F81_seed02.mp4",
+    "prompt": "In a quiet study with a low table and a potted plant by the wall, a hamster is on the right of a basket, then the hamster climbs to the top of the basket.",
+    "prompt_id": "1118_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1118_RT_F81_seed03.mp4",
+    "prompt": "In a quiet study with a low table and a potted plant by the wall, a hamster is on the right of a basket, then the hamster climbs to the top of the basket.",
+    "prompt_id": "1118_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1118_RT_F81_seed04.mp4",
+    "prompt": "In a quiet study with a low table and a potted plant by the wall, a hamster is on the right of a basket, then the hamster climbs to the top of the basket.",
+    "prompt_id": "1118_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1126_TL_F81_seed00.mp4",
+    "prompt": "In a quiet storage room with a patterned rug and a potted plant by the wall, a cat is on the top of a chair, then the cat sneaks to the left of the chair.",
+    "prompt_id": "1126_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1126_TL_F81_seed01.mp4",
+    "prompt": "In a quiet storage room with a patterned rug and a potted plant by the wall, a cat is on the top of a chair, then the cat sneaks to the left of the chair.",
+    "prompt_id": "1126_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1126_TL_F81_seed02.mp4",
+    "prompt": "In a quiet storage room with a patterned rug and a potted plant by the wall, a cat is on the top of a chair, then the cat sneaks to the left of the chair.",
+    "prompt_id": "1126_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1126_TL_F81_seed03.mp4",
+    "prompt": "In a quiet storage room with a patterned rug and a potted plant by the wall, a cat is on the top of a chair, then the cat sneaks to the left of the chair.",
+    "prompt_id": "1126_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1126_TL_F81_seed04.mp4",
+    "prompt": "In a quiet storage room with a patterned rug and a potted plant by the wall, a cat is on the top of a chair, then the cat sneaks to the left of the chair.",
+    "prompt_id": "1126_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1129_RL_F81_seed00.mp4",
+    "prompt": "In a bright workshop with soft cushions and a mug left on a side table, a cat is on the right of a sofa, then the cat walks to the left of the sofa.",
+    "prompt_id": "1129_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1129_RL_F81_seed01.mp4",
+    "prompt": "In a bright workshop with soft cushions and a mug left on a side table, a cat is on the right of a sofa, then the cat walks to the left of the sofa.",
+    "prompt_id": "1129_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1129_RL_F81_seed02.mp4",
+    "prompt": "In a bright workshop with soft cushions and a mug left on a side table, a cat is on the right of a sofa, then the cat walks to the left of the sofa.",
+    "prompt_id": "1129_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1129_RL_F81_seed03.mp4",
+    "prompt": "In a bright workshop with soft cushions and a mug left on a side table, a cat is on the right of a sofa, then the cat walks to the left of the sofa.",
+    "prompt_id": "1129_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1129_RL_F81_seed04.mp4",
+    "prompt": "In a bright workshop with soft cushions and a mug left on a side table, a cat is on the right of a sofa, then the cat walks to the left of the sofa.",
+    "prompt_id": "1129_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1134_LT_F81_seed00.mp4",
+    "prompt": "In a dimly lit loft space with soft cushions and a mug left on a side table, a squirrel is on the left of a crate, then the squirrel climbs to the top of the crate.",
+    "prompt_id": "1134_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1134_LT_F81_seed01.mp4",
+    "prompt": "In a dimly lit loft space with soft cushions and a mug left on a side table, a squirrel is on the left of a crate, then the squirrel climbs to the top of the crate.",
+    "prompt_id": "1134_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1134_LT_F81_seed02.mp4",
+    "prompt": "In a dimly lit loft space with soft cushions and a mug left on a side table, a squirrel is on the left of a crate, then the squirrel climbs to the top of the crate.",
+    "prompt_id": "1134_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1134_LT_F81_seed03.mp4",
+    "prompt": "In a dimly lit loft space with soft cushions and a mug left on a side table, a squirrel is on the left of a crate, then the squirrel climbs to the top of the crate.",
+    "prompt_id": "1134_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1134_LT_F81_seed04.mp4",
+    "prompt": "In a dimly lit loft space with soft cushions and a mug left on a side table, a squirrel is on the left of a crate, then the squirrel climbs to the top of the crate.",
+    "prompt_id": "1134_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1141_RT_F81_seed00.mp4",
+    "prompt": "In a wood-paneled studio with a floor lamp and heavy curtains drawn halfway, a dog is on the right of a crate, then the dog jumps to the top of the crate.",
+    "prompt_id": "1141_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1141_RT_F81_seed01.mp4",
+    "prompt": "In a wood-paneled studio with a floor lamp and heavy curtains drawn halfway, a dog is on the right of a crate, then the dog jumps to the top of the crate.",
+    "prompt_id": "1141_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1141_RT_F81_seed02.mp4",
+    "prompt": "In a wood-paneled studio with a floor lamp and heavy curtains drawn halfway, a dog is on the right of a crate, then the dog jumps to the top of the crate.",
+    "prompt_id": "1141_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1141_RT_F81_seed03.mp4",
+    "prompt": "In a wood-paneled studio with a floor lamp and heavy curtains drawn halfway, a dog is on the right of a crate, then the dog jumps to the top of the crate.",
+    "prompt_id": "1141_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1141_RT_F81_seed04.mp4",
+    "prompt": "In a wood-paneled studio with a floor lamp and heavy curtains drawn halfway, a dog is on the right of a crate, then the dog jumps to the top of the crate.",
+    "prompt_id": "1141_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1145_TL_F81_seed00.mp4",
+    "prompt": "In a spacious loft space with a floor lamp and sunlight spilling across the floor, a dog is on the top of a basket, then the dog jumps to the left of the basket.",
+    "prompt_id": "1145_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1145_TL_F81_seed01.mp4",
+    "prompt": "In a spacious loft space with a floor lamp and sunlight spilling across the floor, a dog is on the top of a basket, then the dog jumps to the left of the basket.",
+    "prompt_id": "1145_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1145_TL_F81_seed02.mp4",
+    "prompt": "In a spacious loft space with a floor lamp and sunlight spilling across the floor, a dog is on the top of a basket, then the dog jumps to the left of the basket.",
+    "prompt_id": "1145_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1145_TL_F81_seed03.mp4",
+    "prompt": "In a spacious loft space with a floor lamp and sunlight spilling across the floor, a dog is on the top of a basket, then the dog jumps to the left of the basket.",
+    "prompt_id": "1145_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1145_TL_F81_seed04.mp4",
+    "prompt": "In a spacious loft space with a floor lamp and sunlight spilling across the floor, a dog is on the top of a basket, then the dog jumps to the left of the basket.",
+    "prompt_id": "1145_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1155_LT_F81_seed00.mp4",
+    "prompt": "In a spacious loft space with framed pictures and heavy curtains drawn halfway, a hamster is on the left of a basket, then the hamster climbs to the top of the basket.",
+    "prompt_id": "1155_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1155_LT_F81_seed01.mp4",
+    "prompt": "In a spacious loft space with framed pictures and heavy curtains drawn halfway, a hamster is on the left of a basket, then the hamster climbs to the top of the basket.",
+    "prompt_id": "1155_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1155_LT_F81_seed02.mp4",
+    "prompt": "In a spacious loft space with framed pictures and heavy curtains drawn halfway, a hamster is on the left of a basket, then the hamster climbs to the top of the basket.",
+    "prompt_id": "1155_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1155_LT_F81_seed03.mp4",
+    "prompt": "In a spacious loft space with framed pictures and heavy curtains drawn halfway, a hamster is on the left of a basket, then the hamster climbs to the top of the basket.",
+    "prompt_id": "1155_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1155_LT_F81_seed04.mp4",
+    "prompt": "In a spacious loft space with framed pictures and heavy curtains drawn halfway, a hamster is on the left of a basket, then the hamster climbs to the top of the basket.",
+    "prompt_id": "1155_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1158_LT_F81_seed00.mp4",
+    "prompt": "In a softly lit loft space with pillows on the floor and small ornaments on the shelves, a rabbit is on the left of a sofa, then the rabbit jumps to the top of the sofa.",
+    "prompt_id": "1158_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1158_LT_F81_seed01.mp4",
+    "prompt": "In a softly lit loft space with pillows on the floor and small ornaments on the shelves, a rabbit is on the left of a sofa, then the rabbit jumps to the top of the sofa.",
+    "prompt_id": "1158_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1158_LT_F81_seed02.mp4",
+    "prompt": "In a softly lit loft space with pillows on the floor and small ornaments on the shelves, a rabbit is on the left of a sofa, then the rabbit jumps to the top of the sofa.",
+    "prompt_id": "1158_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1158_LT_F81_seed03.mp4",
+    "prompt": "In a softly lit loft space with pillows on the floor and small ornaments on the shelves, a rabbit is on the left of a sofa, then the rabbit jumps to the top of the sofa.",
+    "prompt_id": "1158_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1158_LT_F81_seed04.mp4",
+    "prompt": "In a softly lit loft space with pillows on the floor and small ornaments on the shelves, a rabbit is on the left of a sofa, then the rabbit jumps to the top of the sofa.",
+    "prompt_id": "1158_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1163_TR_F81_seed00.mp4",
+    "prompt": "In a softly lit storage room with a floor lamp and warm light from a nearby lamp, a hamster is on the top of a chair, then the hamster crawls to the right of the chair.",
+    "prompt_id": "1163_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1163_TR_F81_seed01.mp4",
+    "prompt": "In a softly lit storage room with a floor lamp and warm light from a nearby lamp, a hamster is on the top of a chair, then the hamster crawls to the right of the chair.",
+    "prompt_id": "1163_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1163_TR_F81_seed02.mp4",
+    "prompt": "In a softly lit storage room with a floor lamp and warm light from a nearby lamp, a hamster is on the top of a chair, then the hamster crawls to the right of the chair.",
+    "prompt_id": "1163_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1163_TR_F81_seed03.mp4",
+    "prompt": "In a softly lit storage room with a floor lamp and warm light from a nearby lamp, a hamster is on the top of a chair, then the hamster crawls to the right of the chair.",
+    "prompt_id": "1163_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1163_TR_F81_seed04.mp4",
+    "prompt": "In a softly lit storage room with a floor lamp and warm light from a nearby lamp, a hamster is on the top of a chair, then the hamster crawls to the right of the chair.",
+    "prompt_id": "1163_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1169_TR_F81_seed00.mp4",
+    "prompt": "In a warm living room with a patterned rug and warm light from a nearby lamp, a cat is on the top of a crate, then the cat jumps to the right of the crate.",
+    "prompt_id": "1169_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1169_TR_F81_seed01.mp4",
+    "prompt": "In a warm living room with a patterned rug and warm light from a nearby lamp, a cat is on the top of a crate, then the cat jumps to the right of the crate.",
+    "prompt_id": "1169_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1169_TR_F81_seed02.mp4",
+    "prompt": "In a warm living room with a patterned rug and warm light from a nearby lamp, a cat is on the top of a crate, then the cat jumps to the right of the crate.",
+    "prompt_id": "1169_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1169_TR_F81_seed03.mp4",
+    "prompt": "In a warm living room with a patterned rug and warm light from a nearby lamp, a cat is on the top of a crate, then the cat jumps to the right of the crate.",
+    "prompt_id": "1169_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1169_TR_F81_seed04.mp4",
+    "prompt": "In a warm living room with a patterned rug and warm light from a nearby lamp, a cat is on the top of a crate, then the cat jumps to the right of the crate.",
+    "prompt_id": "1169_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1171_LT_F81_seed00.mp4",
+    "prompt": "In a sunlit living room with scattered books and a single lamp in the corner, a cat is on the left of a stool, then the cat jumps to the top of the stool.",
+    "prompt_id": "1171_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1171_LT_F81_seed01.mp4",
+    "prompt": "In a sunlit living room with scattered books and a single lamp in the corner, a cat is on the left of a stool, then the cat jumps to the top of the stool.",
+    "prompt_id": "1171_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1171_LT_F81_seed02.mp4",
+    "prompt": "In a sunlit living room with scattered books and a single lamp in the corner, a cat is on the left of a stool, then the cat jumps to the top of the stool.",
+    "prompt_id": "1171_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1171_LT_F81_seed03.mp4",
+    "prompt": "In a sunlit living room with scattered books and a single lamp in the corner, a cat is on the left of a stool, then the cat jumps to the top of the stool.",
+    "prompt_id": "1171_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1171_LT_F81_seed04.mp4",
+    "prompt": "In a sunlit living room with scattered books and a single lamp in the corner, a cat is on the left of a stool, then the cat jumps to the top of the stool.",
+    "prompt_id": "1171_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1172_RT_F81_seed00.mp4",
+    "prompt": "In a softly lit storage room with a large window and a single lamp in the corner, a fox is on the right of a sofa, then the fox trots to the top of the sofa.",
+    "prompt_id": "1172_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1172_RT_F81_seed01.mp4",
+    "prompt": "In a softly lit storage room with a large window and a single lamp in the corner, a fox is on the right of a sofa, then the fox trots to the top of the sofa.",
+    "prompt_id": "1172_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1172_RT_F81_seed02.mp4",
+    "prompt": "In a softly lit storage room with a large window and a single lamp in the corner, a fox is on the right of a sofa, then the fox trots to the top of the sofa.",
+    "prompt_id": "1172_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1172_RT_F81_seed03.mp4",
+    "prompt": "In a softly lit storage room with a large window and a single lamp in the corner, a fox is on the right of a sofa, then the fox trots to the top of the sofa.",
+    "prompt_id": "1172_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1172_RT_F81_seed04.mp4",
+    "prompt": "In a softly lit storage room with a large window and a single lamp in the corner, a fox is on the right of a sofa, then the fox trots to the top of the sofa.",
+    "prompt_id": "1172_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1181_LT_F81_seed00.mp4",
+    "prompt": "In a dimly lit loft space with soft cushions and warm light from a nearby lamp, a bird is on the left of a sofa, then the bird pecks to the top of the sofa.",
+    "prompt_id": "1181_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1181_LT_F81_seed01.mp4",
+    "prompt": "In a dimly lit loft space with soft cushions and warm light from a nearby lamp, a bird is on the left of a sofa, then the bird pecks to the top of the sofa.",
+    "prompt_id": "1181_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1181_LT_F81_seed02.mp4",
+    "prompt": "In a dimly lit loft space with soft cushions and warm light from a nearby lamp, a bird is on the left of a sofa, then the bird pecks to the top of the sofa.",
+    "prompt_id": "1181_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1181_LT_F81_seed03.mp4",
+    "prompt": "In a dimly lit loft space with soft cushions and warm light from a nearby lamp, a bird is on the left of a sofa, then the bird pecks to the top of the sofa.",
+    "prompt_id": "1181_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1181_LT_F81_seed04.mp4",
+    "prompt": "In a dimly lit loft space with soft cushions and warm light from a nearby lamp, a bird is on the left of a sofa, then the bird pecks to the top of the sofa.",
+    "prompt_id": "1181_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1182_RL_F81_seed00.mp4",
+    "prompt": "In a wood-paneled office with a floor lamp and small ornaments on the shelves, a rabbit is on the right of a crate, then the rabbit jumps to the left of the crate.",
+    "prompt_id": "1182_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1182_RL_F81_seed01.mp4",
+    "prompt": "In a wood-paneled office with a floor lamp and small ornaments on the shelves, a rabbit is on the right of a crate, then the rabbit jumps to the left of the crate.",
+    "prompt_id": "1182_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1182_RL_F81_seed02.mp4",
+    "prompt": "In a wood-paneled office with a floor lamp and small ornaments on the shelves, a rabbit is on the right of a crate, then the rabbit jumps to the left of the crate.",
+    "prompt_id": "1182_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1182_RL_F81_seed03.mp4",
+    "prompt": "In a wood-paneled office with a floor lamp and small ornaments on the shelves, a rabbit is on the right of a crate, then the rabbit jumps to the left of the crate.",
+    "prompt_id": "1182_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1182_RL_F81_seed04.mp4",
+    "prompt": "In a wood-paneled office with a floor lamp and small ornaments on the shelves, a rabbit is on the right of a crate, then the rabbit jumps to the left of the crate.",
+    "prompt_id": "1182_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1184_LR_F81_seed00.mp4",
+    "prompt": "In a spacious workshop with a low table and a potted plant by the wall, a hamster is on the left of a sofa, then the hamster crawls to the right of the sofa.",
+    "prompt_id": "1184_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1184_LR_F81_seed01.mp4",
+    "prompt": "In a spacious workshop with a low table and a potted plant by the wall, a hamster is on the left of a sofa, then the hamster crawls to the right of the sofa.",
+    "prompt_id": "1184_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1184_LR_F81_seed02.mp4",
+    "prompt": "In a spacious workshop with a low table and a potted plant by the wall, a hamster is on the left of a sofa, then the hamster crawls to the right of the sofa.",
+    "prompt_id": "1184_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1184_LR_F81_seed03.mp4",
+    "prompt": "In a spacious workshop with a low table and a potted plant by the wall, a hamster is on the left of a sofa, then the hamster crawls to the right of the sofa.",
+    "prompt_id": "1184_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1184_LR_F81_seed04.mp4",
+    "prompt": "In a spacious workshop with a low table and a potted plant by the wall, a hamster is on the left of a sofa, then the hamster crawls to the right of the sofa.",
+    "prompt_id": "1184_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1186_RL_F81_seed00.mp4",
+    "prompt": "In a softly lit loft space with a large window and sunlight spilling across the floor, a bird is on the right of a pot, then the bird hops to the left of the pot.",
+    "prompt_id": "1186_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1186_RL_F81_seed01.mp4",
+    "prompt": "In a softly lit loft space with a large window and sunlight spilling across the floor, a bird is on the right of a pot, then the bird hops to the left of the pot.",
+    "prompt_id": "1186_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1186_RL_F81_seed02.mp4",
+    "prompt": "In a softly lit loft space with a large window and sunlight spilling across the floor, a bird is on the right of a pot, then the bird hops to the left of the pot.",
+    "prompt_id": "1186_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1186_RL_F81_seed03.mp4",
+    "prompt": "In a softly lit loft space with a large window and sunlight spilling across the floor, a bird is on the right of a pot, then the bird hops to the left of the pot.",
+    "prompt_id": "1186_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1186_RL_F81_seed04.mp4",
+    "prompt": "In a softly lit loft space with a large window and sunlight spilling across the floor, a bird is on the right of a pot, then the bird hops to the left of the pot.",
+    "prompt_id": "1186_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1190_LR_F81_seed00.mp4",
+    "prompt": "In a cozy workshop with soft cushions and a single lamp in the corner, a rabbit is on the left of a chair, then the rabbit jumps to the right of the chair.",
+    "prompt_id": "1190_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1190_LR_F81_seed01.mp4",
+    "prompt": "In a cozy workshop with soft cushions and a single lamp in the corner, a rabbit is on the left of a chair, then the rabbit jumps to the right of the chair.",
+    "prompt_id": "1190_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1190_LR_F81_seed02.mp4",
+    "prompt": "In a cozy workshop with soft cushions and a single lamp in the corner, a rabbit is on the left of a chair, then the rabbit jumps to the right of the chair.",
+    "prompt_id": "1190_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1190_LR_F81_seed03.mp4",
+    "prompt": "In a cozy workshop with soft cushions and a single lamp in the corner, a rabbit is on the left of a chair, then the rabbit jumps to the right of the chair.",
+    "prompt_id": "1190_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1190_LR_F81_seed04.mp4",
+    "prompt": "In a cozy workshop with soft cushions and a single lamp in the corner, a rabbit is on the left of a chair, then the rabbit jumps to the right of the chair.",
+    "prompt_id": "1190_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1199_LT_F81_seed00.mp4",
+    "prompt": "In a narrow attic with a floor lamp and shadows from the window blinds, a hamster is on the left of a box, then the hamster climbs to the top of the box.",
+    "prompt_id": "1199_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1199_LT_F81_seed01.mp4",
+    "prompt": "In a narrow attic with a floor lamp and shadows from the window blinds, a hamster is on the left of a box, then the hamster climbs to the top of the box.",
+    "prompt_id": "1199_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1199_LT_F81_seed02.mp4",
+    "prompt": "In a narrow attic with a floor lamp and shadows from the window blinds, a hamster is on the left of a box, then the hamster climbs to the top of the box.",
+    "prompt_id": "1199_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1199_LT_F81_seed03.mp4",
+    "prompt": "In a narrow attic with a floor lamp and shadows from the window blinds, a hamster is on the left of a box, then the hamster climbs to the top of the box.",
+    "prompt_id": "1199_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1199_LT_F81_seed04.mp4",
+    "prompt": "In a narrow attic with a floor lamp and shadows from the window blinds, a hamster is on the left of a box, then the hamster climbs to the top of the box.",
+    "prompt_id": "1199_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1207_RT_F81_seed00.mp4",
+    "prompt": "In a sunlit office with tall bookshelves and a mug left on a side table, a squirrel is on the right of a cushion, then the squirrel darts to the top of the cushion.",
+    "prompt_id": "1207_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1207_RT_F81_seed01.mp4",
+    "prompt": "In a sunlit office with tall bookshelves and a mug left on a side table, a squirrel is on the right of a cushion, then the squirrel darts to the top of the cushion.",
+    "prompt_id": "1207_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1207_RT_F81_seed02.mp4",
+    "prompt": "In a sunlit office with tall bookshelves and a mug left on a side table, a squirrel is on the right of a cushion, then the squirrel darts to the top of the cushion.",
+    "prompt_id": "1207_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1207_RT_F81_seed03.mp4",
+    "prompt": "In a sunlit office with tall bookshelves and a mug left on a side table, a squirrel is on the right of a cushion, then the squirrel darts to the top of the cushion.",
+    "prompt_id": "1207_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1207_RT_F81_seed04.mp4",
+    "prompt": "In a sunlit office with tall bookshelves and a mug left on a side table, a squirrel is on the right of a cushion, then the squirrel darts to the top of the cushion.",
+    "prompt_id": "1207_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1211_RT_F81_seed00.mp4",
+    "prompt": "In a dimly lit workshop with wooden floors and a coat rack by the door, a rabbit is on the right of a stool, then the rabbit jumps to the top of the stool.",
+    "prompt_id": "1211_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1211_RT_F81_seed01.mp4",
+    "prompt": "In a dimly lit workshop with wooden floors and a coat rack by the door, a rabbit is on the right of a stool, then the rabbit jumps to the top of the stool.",
+    "prompt_id": "1211_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1211_RT_F81_seed02.mp4",
+    "prompt": "In a dimly lit workshop with wooden floors and a coat rack by the door, a rabbit is on the right of a stool, then the rabbit jumps to the top of the stool.",
+    "prompt_id": "1211_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1211_RT_F81_seed03.mp4",
+    "prompt": "In a dimly lit workshop with wooden floors and a coat rack by the door, a rabbit is on the right of a stool, then the rabbit jumps to the top of the stool.",
+    "prompt_id": "1211_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1211_RT_F81_seed04.mp4",
+    "prompt": "In a dimly lit workshop with wooden floors and a coat rack by the door, a rabbit is on the right of a stool, then the rabbit jumps to the top of the stool.",
+    "prompt_id": "1211_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1213_TL_F81_seed00.mp4",
+    "prompt": "In a quiet reading nook with a floor lamp and a stack of magazines on a table, a cat is on the top of a chair, then the cat jumps to the left of the chair.",
+    "prompt_id": "1213_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1213_TL_F81_seed01.mp4",
+    "prompt": "In a quiet reading nook with a floor lamp and a stack of magazines on a table, a cat is on the top of a chair, then the cat jumps to the left of the chair.",
+    "prompt_id": "1213_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1213_TL_F81_seed02.mp4",
+    "prompt": "In a quiet reading nook with a floor lamp and a stack of magazines on a table, a cat is on the top of a chair, then the cat jumps to the left of the chair.",
+    "prompt_id": "1213_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1213_TL_F81_seed03.mp4",
+    "prompt": "In a quiet reading nook with a floor lamp and a stack of magazines on a table, a cat is on the top of a chair, then the cat jumps to the left of the chair.",
+    "prompt_id": "1213_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1213_TL_F81_seed04.mp4",
+    "prompt": "In a quiet reading nook with a floor lamp and a stack of magazines on a table, a cat is on the top of a chair, then the cat jumps to the left of the chair.",
+    "prompt_id": "1213_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1214_TR_F81_seed00.mp4",
+    "prompt": "In a narrow office with tall bookshelves and a stack of magazines on a table, a dog is on the top of a basket, then the dog runs to the right of the basket.",
+    "prompt_id": "1214_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1214_TR_F81_seed01.mp4",
+    "prompt": "In a narrow office with tall bookshelves and a stack of magazines on a table, a dog is on the top of a basket, then the dog runs to the right of the basket.",
+    "prompt_id": "1214_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1214_TR_F81_seed02.mp4",
+    "prompt": "In a narrow office with tall bookshelves and a stack of magazines on a table, a dog is on the top of a basket, then the dog runs to the right of the basket.",
+    "prompt_id": "1214_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1214_TR_F81_seed03.mp4",
+    "prompt": "In a narrow office with tall bookshelves and a stack of magazines on a table, a dog is on the top of a basket, then the dog runs to the right of the basket.",
+    "prompt_id": "1214_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1214_TR_F81_seed04.mp4",
+    "prompt": "In a narrow office with tall bookshelves and a stack of magazines on a table, a dog is on the top of a basket, then the dog runs to the right of the basket.",
+    "prompt_id": "1214_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1221_LT_F81_seed00.mp4",
+    "prompt": "In a sunlit office with a large window and a mug left on a side table, a squirrel is on the left of a cushion, then the squirrel darts to the top of the cushion.",
+    "prompt_id": "1221_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1221_LT_F81_seed01.mp4",
+    "prompt": "In a sunlit office with a large window and a mug left on a side table, a squirrel is on the left of a cushion, then the squirrel darts to the top of the cushion.",
+    "prompt_id": "1221_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1221_LT_F81_seed02.mp4",
+    "prompt": "In a sunlit office with a large window and a mug left on a side table, a squirrel is on the left of a cushion, then the squirrel darts to the top of the cushion.",
+    "prompt_id": "1221_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1221_LT_F81_seed03.mp4",
+    "prompt": "In a sunlit office with a large window and a mug left on a side table, a squirrel is on the left of a cushion, then the squirrel darts to the top of the cushion.",
+    "prompt_id": "1221_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1221_LT_F81_seed04.mp4",
+    "prompt": "In a sunlit office with a large window and a mug left on a side table, a squirrel is on the left of a cushion, then the squirrel darts to the top of the cushion.",
+    "prompt_id": "1221_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1226_LT_F81_seed00.mp4",
+    "prompt": "In a bright library corner with pillows on the floor and a mug left on a side table, a dog is on the left of a crate, then the dog jumps to the top of the crate.",
+    "prompt_id": "1226_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1226_LT_F81_seed01.mp4",
+    "prompt": "In a bright library corner with pillows on the floor and a mug left on a side table, a dog is on the left of a crate, then the dog jumps to the top of the crate.",
+    "prompt_id": "1226_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1226_LT_F81_seed02.mp4",
+    "prompt": "In a bright library corner with pillows on the floor and a mug left on a side table, a dog is on the left of a crate, then the dog jumps to the top of the crate.",
+    "prompt_id": "1226_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1226_LT_F81_seed03.mp4",
+    "prompt": "In a bright library corner with pillows on the floor and a mug left on a side table, a dog is on the left of a crate, then the dog jumps to the top of the crate.",
+    "prompt_id": "1226_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1226_LT_F81_seed04.mp4",
+    "prompt": "In a bright library corner with pillows on the floor and a mug left on a side table, a dog is on the left of a crate, then the dog jumps to the top of the crate.",
+    "prompt_id": "1226_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1236_TR_F81_seed00.mp4",
+    "prompt": "In a quiet study with a low table and heavy curtains drawn halfway, a cat is on the top of a chair, then the cat paces to the right of the chair.",
+    "prompt_id": "1236_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1236_TR_F81_seed01.mp4",
+    "prompt": "In a quiet study with a low table and heavy curtains drawn halfway, a cat is on the top of a chair, then the cat paces to the right of the chair.",
+    "prompt_id": "1236_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1236_TR_F81_seed02.mp4",
+    "prompt": "In a quiet study with a low table and heavy curtains drawn halfway, a cat is on the top of a chair, then the cat paces to the right of the chair.",
+    "prompt_id": "1236_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1236_TR_F81_seed03.mp4",
+    "prompt": "In a quiet study with a low table and heavy curtains drawn halfway, a cat is on the top of a chair, then the cat paces to the right of the chair.",
+    "prompt_id": "1236_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1236_TR_F81_seed04.mp4",
+    "prompt": "In a quiet study with a low table and heavy curtains drawn halfway, a cat is on the top of a chair, then the cat paces to the right of the chair.",
+    "prompt_id": "1236_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1242_LR_F81_seed00.mp4",
+    "prompt": "In a sunlit loft space with pillows on the floor and a coat rack by the door, a hamster is on the left of a basket, then the hamster scurries to the right of the basket.",
+    "prompt_id": "1242_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1242_LR_F81_seed01.mp4",
+    "prompt": "In a sunlit loft space with pillows on the floor and a coat rack by the door, a hamster is on the left of a basket, then the hamster scurries to the right of the basket.",
+    "prompt_id": "1242_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1242_LR_F81_seed02.mp4",
+    "prompt": "In a sunlit loft space with pillows on the floor and a coat rack by the door, a hamster is on the left of a basket, then the hamster scurries to the right of the basket.",
+    "prompt_id": "1242_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1242_LR_F81_seed03.mp4",
+    "prompt": "In a sunlit loft space with pillows on the floor and a coat rack by the door, a hamster is on the left of a basket, then the hamster scurries to the right of the basket.",
+    "prompt_id": "1242_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1242_LR_F81_seed04.mp4",
+    "prompt": "In a sunlit loft space with pillows on the floor and a coat rack by the door, a hamster is on the left of a basket, then the hamster scurries to the right of the basket.",
+    "prompt_id": "1242_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1246_TL_F81_seed00.mp4",
+    "prompt": "In a spacious workshop with pillows on the floor and shadows from the window blinds, a hamster is on the top of a box, then the hamster crawls to the left of the box.",
+    "prompt_id": "1246_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1246_TL_F81_seed01.mp4",
+    "prompt": "In a spacious workshop with pillows on the floor and shadows from the window blinds, a hamster is on the top of a box, then the hamster crawls to the left of the box.",
+    "prompt_id": "1246_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1246_TL_F81_seed02.mp4",
+    "prompt": "In a spacious workshop with pillows on the floor and shadows from the window blinds, a hamster is on the top of a box, then the hamster crawls to the left of the box.",
+    "prompt_id": "1246_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1246_TL_F81_seed03.mp4",
+    "prompt": "In a spacious workshop with pillows on the floor and shadows from the window blinds, a hamster is on the top of a box, then the hamster crawls to the left of the box.",
+    "prompt_id": "1246_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1246_TL_F81_seed04.mp4",
+    "prompt": "In a spacious workshop with pillows on the floor and shadows from the window blinds, a hamster is on the top of a box, then the hamster crawls to the left of the box.",
+    "prompt_id": "1246_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1249_LT_F81_seed00.mp4",
+    "prompt": "In a narrow loft space with a low table and heavy curtains drawn halfway, a bird is on the left of a sofa, then the bird pecks to the top of the sofa.",
+    "prompt_id": "1249_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1249_LT_F81_seed01.mp4",
+    "prompt": "In a narrow loft space with a low table and heavy curtains drawn halfway, a bird is on the left of a sofa, then the bird pecks to the top of the sofa.",
+    "prompt_id": "1249_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1249_LT_F81_seed02.mp4",
+    "prompt": "In a narrow loft space with a low table and heavy curtains drawn halfway, a bird is on the left of a sofa, then the bird pecks to the top of the sofa.",
+    "prompt_id": "1249_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1249_LT_F81_seed03.mp4",
+    "prompt": "In a narrow loft space with a low table and heavy curtains drawn halfway, a bird is on the left of a sofa, then the bird pecks to the top of the sofa.",
+    "prompt_id": "1249_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1249_LT_F81_seed04.mp4",
+    "prompt": "In a narrow loft space with a low table and heavy curtains drawn halfway, a bird is on the left of a sofa, then the bird pecks to the top of the sofa.",
+    "prompt_id": "1249_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1250_RL_F81_seed00.mp4",
+    "prompt": "In a sunlit studio with a low table and a coat rack by the door, a duck is on the right of a crate, then the duck steps to the left of the crate.",
+    "prompt_id": "1250_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1250_RL_F81_seed01.mp4",
+    "prompt": "In a sunlit studio with a low table and a coat rack by the door, a duck is on the right of a crate, then the duck steps to the left of the crate.",
+    "prompt_id": "1250_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1250_RL_F81_seed02.mp4",
+    "prompt": "In a sunlit studio with a low table and a coat rack by the door, a duck is on the right of a crate, then the duck steps to the left of the crate.",
+    "prompt_id": "1250_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1250_RL_F81_seed03.mp4",
+    "prompt": "In a sunlit studio with a low table and a coat rack by the door, a duck is on the right of a crate, then the duck steps to the left of the crate.",
+    "prompt_id": "1250_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1250_RL_F81_seed04.mp4",
+    "prompt": "In a sunlit studio with a low table and a coat rack by the door, a duck is on the right of a crate, then the duck steps to the left of the crate.",
+    "prompt_id": "1250_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1265_RL_F81_seed00.mp4",
+    "prompt": "In a softly lit living room with wooden floors and warm light from a nearby lamp, a dog is on the right of a basket, then the dog runs to the left of the basket.",
+    "prompt_id": "1265_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1265_RL_F81_seed01.mp4",
+    "prompt": "In a softly lit living room with wooden floors and warm light from a nearby lamp, a dog is on the right of a basket, then the dog runs to the left of the basket.",
+    "prompt_id": "1265_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1265_RL_F81_seed02.mp4",
+    "prompt": "In a softly lit living room with wooden floors and warm light from a nearby lamp, a dog is on the right of a basket, then the dog runs to the left of the basket.",
+    "prompt_id": "1265_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1265_RL_F81_seed03.mp4",
+    "prompt": "In a softly lit living room with wooden floors and warm light from a nearby lamp, a dog is on the right of a basket, then the dog runs to the left of the basket.",
+    "prompt_id": "1265_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1265_RL_F81_seed04.mp4",
+    "prompt": "In a softly lit living room with wooden floors and warm light from a nearby lamp, a dog is on the right of a basket, then the dog runs to the left of the basket.",
+    "prompt_id": "1265_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1267_TR_F81_seed00.mp4",
+    "prompt": "In a sunlit attic with soft cushions and warm light from a nearby lamp, a squirrel is on the top of a basket, then the squirrel jumps to the right of the basket.",
+    "prompt_id": "1267_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1267_TR_F81_seed01.mp4",
+    "prompt": "In a sunlit attic with soft cushions and warm light from a nearby lamp, a squirrel is on the top of a basket, then the squirrel jumps to the right of the basket.",
+    "prompt_id": "1267_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1267_TR_F81_seed02.mp4",
+    "prompt": "In a sunlit attic with soft cushions and warm light from a nearby lamp, a squirrel is on the top of a basket, then the squirrel jumps to the right of the basket.",
+    "prompt_id": "1267_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1267_TR_F81_seed03.mp4",
+    "prompt": "In a sunlit attic with soft cushions and warm light from a nearby lamp, a squirrel is on the top of a basket, then the squirrel jumps to the right of the basket.",
+    "prompt_id": "1267_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1267_TR_F81_seed04.mp4",
+    "prompt": "In a sunlit attic with soft cushions and warm light from a nearby lamp, a squirrel is on the top of a basket, then the squirrel jumps to the right of the basket.",
+    "prompt_id": "1267_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1269_TR_F81_seed00.mp4",
+    "prompt": "In a quiet loft space with a low table and a mug left on a side table, a rabbit is on the top of a crate, then the rabbit jumps to the right of the crate.",
+    "prompt_id": "1269_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1269_TR_F81_seed01.mp4",
+    "prompt": "In a quiet loft space with a low table and a mug left on a side table, a rabbit is on the top of a crate, then the rabbit jumps to the right of the crate.",
+    "prompt_id": "1269_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1269_TR_F81_seed02.mp4",
+    "prompt": "In a quiet loft space with a low table and a mug left on a side table, a rabbit is on the top of a crate, then the rabbit jumps to the right of the crate.",
+    "prompt_id": "1269_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1269_TR_F81_seed03.mp4",
+    "prompt": "In a quiet loft space with a low table and a mug left on a side table, a rabbit is on the top of a crate, then the rabbit jumps to the right of the crate.",
+    "prompt_id": "1269_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1269_TR_F81_seed04.mp4",
+    "prompt": "In a quiet loft space with a low table and a mug left on a side table, a rabbit is on the top of a crate, then the rabbit jumps to the right of the crate.",
+    "prompt_id": "1269_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1272_TR_F81_seed00.mp4",
+    "prompt": "In a wood-paneled office with a floor lamp and a mug left on a side table, a hamster is on the top of a pot, then the hamster crawls to the right of the pot.",
+    "prompt_id": "1272_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1272_TR_F81_seed01.mp4",
+    "prompt": "In a wood-paneled office with a floor lamp and a mug left on a side table, a hamster is on the top of a pot, then the hamster crawls to the right of the pot.",
+    "prompt_id": "1272_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1272_TR_F81_seed02.mp4",
+    "prompt": "In a wood-paneled office with a floor lamp and a mug left on a side table, a hamster is on the top of a pot, then the hamster crawls to the right of the pot.",
+    "prompt_id": "1272_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1272_TR_F81_seed03.mp4",
+    "prompt": "In a wood-paneled office with a floor lamp and a mug left on a side table, a hamster is on the top of a pot, then the hamster crawls to the right of the pot.",
+    "prompt_id": "1272_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1272_TR_F81_seed04.mp4",
+    "prompt": "In a wood-paneled office with a floor lamp and a mug left on a side table, a hamster is on the top of a pot, then the hamster crawls to the right of the pot.",
+    "prompt_id": "1272_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1275_RL_F81_seed00.mp4",
+    "prompt": "In a narrow reading nook with a patterned rug and warm light from a nearby lamp, a squirrel is on the right of a basket, then the squirrel scampers to the left of the basket.",
+    "prompt_id": "1275_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1275_RL_F81_seed01.mp4",
+    "prompt": "In a narrow reading nook with a patterned rug and warm light from a nearby lamp, a squirrel is on the right of a basket, then the squirrel scampers to the left of the basket.",
+    "prompt_id": "1275_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1275_RL_F81_seed02.mp4",
+    "prompt": "In a narrow reading nook with a patterned rug and warm light from a nearby lamp, a squirrel is on the right of a basket, then the squirrel scampers to the left of the basket.",
+    "prompt_id": "1275_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1275_RL_F81_seed03.mp4",
+    "prompt": "In a narrow reading nook with a patterned rug and warm light from a nearby lamp, a squirrel is on the right of a basket, then the squirrel scampers to the left of the basket.",
+    "prompt_id": "1275_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1275_RL_F81_seed04.mp4",
+    "prompt": "In a narrow reading nook with a patterned rug and warm light from a nearby lamp, a squirrel is on the right of a basket, then the squirrel scampers to the left of the basket.",
+    "prompt_id": "1275_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1276_LR_F81_seed00.mp4",
+    "prompt": "In a bright storage room with soft cushions and a single lamp in the corner, a hamster is on the left of a chair, then the hamster crawls to the right of the chair.",
+    "prompt_id": "1276_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1276_LR_F81_seed01.mp4",
+    "prompt": "In a bright storage room with soft cushions and a single lamp in the corner, a hamster is on the left of a chair, then the hamster crawls to the right of the chair.",
+    "prompt_id": "1276_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1276_LR_F81_seed02.mp4",
+    "prompt": "In a bright storage room with soft cushions and a single lamp in the corner, a hamster is on the left of a chair, then the hamster crawls to the right of the chair.",
+    "prompt_id": "1276_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1276_LR_F81_seed03.mp4",
+    "prompt": "In a bright storage room with soft cushions and a single lamp in the corner, a hamster is on the left of a chair, then the hamster crawls to the right of the chair.",
+    "prompt_id": "1276_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1276_LR_F81_seed04.mp4",
+    "prompt": "In a bright storage room with soft cushions and a single lamp in the corner, a hamster is on the left of a chair, then the hamster crawls to the right of the chair.",
+    "prompt_id": "1276_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1281_RL_F81_seed00.mp4",
+    "prompt": "In a spacious office with soft cushions and shadows from the window blinds, a rabbit is on the right of a chair, then the rabbit jumps to the left of the chair.",
+    "prompt_id": "1281_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1281_RL_F81_seed01.mp4",
+    "prompt": "In a spacious office with soft cushions and shadows from the window blinds, a rabbit is on the right of a chair, then the rabbit jumps to the left of the chair.",
+    "prompt_id": "1281_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1281_RL_F81_seed02.mp4",
+    "prompt": "In a spacious office with soft cushions and shadows from the window blinds, a rabbit is on the right of a chair, then the rabbit jumps to the left of the chair.",
+    "prompt_id": "1281_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1281_RL_F81_seed03.mp4",
+    "prompt": "In a spacious office with soft cushions and shadows from the window blinds, a rabbit is on the right of a chair, then the rabbit jumps to the left of the chair.",
+    "prompt_id": "1281_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1281_RL_F81_seed04.mp4",
+    "prompt": "In a spacious office with soft cushions and shadows from the window blinds, a rabbit is on the right of a chair, then the rabbit jumps to the left of the chair.",
+    "prompt_id": "1281_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1283_LR_F81_seed00.mp4",
+    "prompt": "In a softly lit study with soft cushions and a stack of magazines on a table, a squirrel is on the left of a chair, then the squirrel hops to the right of the chair.",
+    "prompt_id": "1283_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1283_LR_F81_seed01.mp4",
+    "prompt": "In a softly lit study with soft cushions and a stack of magazines on a table, a squirrel is on the left of a chair, then the squirrel hops to the right of the chair.",
+    "prompt_id": "1283_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1283_LR_F81_seed02.mp4",
+    "prompt": "In a softly lit study with soft cushions and a stack of magazines on a table, a squirrel is on the left of a chair, then the squirrel hops to the right of the chair.",
+    "prompt_id": "1283_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1283_LR_F81_seed03.mp4",
+    "prompt": "In a softly lit study with soft cushions and a stack of magazines on a table, a squirrel is on the left of a chair, then the squirrel hops to the right of the chair.",
+    "prompt_id": "1283_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1283_LR_F81_seed04.mp4",
+    "prompt": "In a softly lit study with soft cushions and a stack of magazines on a table, a squirrel is on the left of a chair, then the squirrel hops to the right of the chair.",
+    "prompt_id": "1283_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1288_LR_F81_seed00.mp4",
+    "prompt": "In a warm studio with a floor lamp and shadows from the window blinds, a cat is on the left of a stool, then the cat walks to the right of the stool.",
+    "prompt_id": "1288_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1288_LR_F81_seed01.mp4",
+    "prompt": "In a warm studio with a floor lamp and shadows from the window blinds, a cat is on the left of a stool, then the cat walks to the right of the stool.",
+    "prompt_id": "1288_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1288_LR_F81_seed02.mp4",
+    "prompt": "In a warm studio with a floor lamp and shadows from the window blinds, a cat is on the left of a stool, then the cat walks to the right of the stool.",
+    "prompt_id": "1288_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1288_LR_F81_seed03.mp4",
+    "prompt": "In a warm studio with a floor lamp and shadows from the window blinds, a cat is on the left of a stool, then the cat walks to the right of the stool.",
+    "prompt_id": "1288_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1288_LR_F81_seed04.mp4",
+    "prompt": "In a warm studio with a floor lamp and shadows from the window blinds, a cat is on the left of a stool, then the cat walks to the right of the stool.",
+    "prompt_id": "1288_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1300_LR_F81_seed00.mp4",
+    "prompt": "In a sunlit workshop with framed pictures and small ornaments on the shelves, a bird is on the left of a box, then the bird flutters to the right of the box.",
+    "prompt_id": "1300_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1300_LR_F81_seed01.mp4",
+    "prompt": "In a sunlit workshop with framed pictures and small ornaments on the shelves, a bird is on the left of a box, then the bird flutters to the right of the box.",
+    "prompt_id": "1300_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1300_LR_F81_seed02.mp4",
+    "prompt": "In a sunlit workshop with framed pictures and small ornaments on the shelves, a bird is on the left of a box, then the bird flutters to the right of the box.",
+    "prompt_id": "1300_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1300_LR_F81_seed03.mp4",
+    "prompt": "In a sunlit workshop with framed pictures and small ornaments on the shelves, a bird is on the left of a box, then the bird flutters to the right of the box.",
+    "prompt_id": "1300_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1300_LR_F81_seed04.mp4",
+    "prompt": "In a sunlit workshop with framed pictures and small ornaments on the shelves, a bird is on the left of a box, then the bird flutters to the right of the box.",
+    "prompt_id": "1300_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1307_TL_F81_seed00.mp4",
+    "prompt": "In a wood-paneled office with a patterned rug and a potted plant by the wall, a cat is on the top of a pot, then the cat sneaks to the left of the pot.",
+    "prompt_id": "1307_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1307_TL_F81_seed01.mp4",
+    "prompt": "In a wood-paneled office with a patterned rug and a potted plant by the wall, a cat is on the top of a pot, then the cat sneaks to the left of the pot.",
+    "prompt_id": "1307_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1307_TL_F81_seed02.mp4",
+    "prompt": "In a wood-paneled office with a patterned rug and a potted plant by the wall, a cat is on the top of a pot, then the cat sneaks to the left of the pot.",
+    "prompt_id": "1307_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1307_TL_F81_seed03.mp4",
+    "prompt": "In a wood-paneled office with a patterned rug and a potted plant by the wall, a cat is on the top of a pot, then the cat sneaks to the left of the pot.",
+    "prompt_id": "1307_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1307_TL_F81_seed04.mp4",
+    "prompt": "In a wood-paneled office with a patterned rug and a potted plant by the wall, a cat is on the top of a pot, then the cat sneaks to the left of the pot.",
+    "prompt_id": "1307_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1309_LR_F81_seed00.mp4",
+    "prompt": "In a spacious living room with a low table and sunlight spilling across the floor, a rabbit is on the left of a crate, then the rabbit jumps to the right of the crate.",
+    "prompt_id": "1309_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1309_LR_F81_seed01.mp4",
+    "prompt": "In a spacious living room with a low table and sunlight spilling across the floor, a rabbit is on the left of a crate, then the rabbit jumps to the right of the crate.",
+    "prompt_id": "1309_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1309_LR_F81_seed02.mp4",
+    "prompt": "In a spacious living room with a low table and sunlight spilling across the floor, a rabbit is on the left of a crate, then the rabbit jumps to the right of the crate.",
+    "prompt_id": "1309_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1309_LR_F81_seed03.mp4",
+    "prompt": "In a spacious living room with a low table and sunlight spilling across the floor, a rabbit is on the left of a crate, then the rabbit jumps to the right of the crate.",
+    "prompt_id": "1309_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1309_LR_F81_seed04.mp4",
+    "prompt": "In a spacious living room with a low table and sunlight spilling across the floor, a rabbit is on the left of a crate, then the rabbit jumps to the right of the crate.",
+    "prompt_id": "1309_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1322_TR_F81_seed00.mp4",
+    "prompt": "In a wood-paneled studio with scattered books and small ornaments on the shelves, a dog is on the top of a crate, then the dog runs to the right of the crate.",
+    "prompt_id": "1322_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1322_TR_F81_seed01.mp4",
+    "prompt": "In a wood-paneled studio with scattered books and small ornaments on the shelves, a dog is on the top of a crate, then the dog runs to the right of the crate.",
+    "prompt_id": "1322_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1322_TR_F81_seed02.mp4",
+    "prompt": "In a wood-paneled studio with scattered books and small ornaments on the shelves, a dog is on the top of a crate, then the dog runs to the right of the crate.",
+    "prompt_id": "1322_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1322_TR_F81_seed03.mp4",
+    "prompt": "In a wood-paneled studio with scattered books and small ornaments on the shelves, a dog is on the top of a crate, then the dog runs to the right of the crate.",
+    "prompt_id": "1322_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1322_TR_F81_seed04.mp4",
+    "prompt": "In a wood-paneled studio with scattered books and small ornaments on the shelves, a dog is on the top of a crate, then the dog runs to the right of the crate.",
+    "prompt_id": "1322_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1328_LT_F81_seed00.mp4",
+    "prompt": "In a warm office with soft cushions and a stack of magazines on a table, a cat is on the left of a chair, then the cat jumps to the top of the chair.",
+    "prompt_id": "1328_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1328_LT_F81_seed01.mp4",
+    "prompt": "In a warm office with soft cushions and a stack of magazines on a table, a cat is on the left of a chair, then the cat jumps to the top of the chair.",
+    "prompt_id": "1328_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1328_LT_F81_seed02.mp4",
+    "prompt": "In a warm office with soft cushions and a stack of magazines on a table, a cat is on the left of a chair, then the cat jumps to the top of the chair.",
+    "prompt_id": "1328_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1328_LT_F81_seed03.mp4",
+    "prompt": "In a warm office with soft cushions and a stack of magazines on a table, a cat is on the left of a chair, then the cat jumps to the top of the chair.",
+    "prompt_id": "1328_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1328_LT_F81_seed04.mp4",
+    "prompt": "In a warm office with soft cushions and a stack of magazines on a table, a cat is on the left of a chair, then the cat jumps to the top of the chair.",
+    "prompt_id": "1328_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1337_LT_F81_seed00.mp4",
+    "prompt": "In a wood-paneled storage room with scattered books and heavy curtains drawn halfway, a hamster is on the left of a crate, then the hamster climbs to the top of the crate.",
+    "prompt_id": "1337_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1337_LT_F81_seed01.mp4",
+    "prompt": "In a wood-paneled storage room with scattered books and heavy curtains drawn halfway, a hamster is on the left of a crate, then the hamster climbs to the top of the crate.",
+    "prompt_id": "1337_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1337_LT_F81_seed02.mp4",
+    "prompt": "In a wood-paneled storage room with scattered books and heavy curtains drawn halfway, a hamster is on the left of a crate, then the hamster climbs to the top of the crate.",
+    "prompt_id": "1337_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1337_LT_F81_seed03.mp4",
+    "prompt": "In a wood-paneled storage room with scattered books and heavy curtains drawn halfway, a hamster is on the left of a crate, then the hamster climbs to the top of the crate.",
+    "prompt_id": "1337_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1337_LT_F81_seed04.mp4",
+    "prompt": "In a wood-paneled storage room with scattered books and heavy curtains drawn halfway, a hamster is on the left of a crate, then the hamster climbs to the top of the crate.",
+    "prompt_id": "1337_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1340_RT_F81_seed00.mp4",
+    "prompt": "In a breezy dusty path with soft soil underfoot and long shadows as the sun sits low, a duck is on the right of a bench, then the duck flaps to the top of the bench.",
+    "prompt_id": "1340_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1340_RT_F81_seed01.mp4",
+    "prompt": "In a breezy dusty path with soft soil underfoot and long shadows as the sun sits low, a duck is on the right of a bench, then the duck flaps to the top of the bench.",
+    "prompt_id": "1340_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1340_RT_F81_seed02.mp4",
+    "prompt": "In a breezy dusty path with soft soil underfoot and long shadows as the sun sits low, a duck is on the right of a bench, then the duck flaps to the top of the bench.",
+    "prompt_id": "1340_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1340_RT_F81_seed03.mp4",
+    "prompt": "In a breezy dusty path with soft soil underfoot and long shadows as the sun sits low, a duck is on the right of a bench, then the duck flaps to the top of the bench.",
+    "prompt_id": "1340_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1340_RT_F81_seed04.mp4",
+    "prompt": "In a breezy dusty path with soft soil underfoot and long shadows as the sun sits low, a duck is on the right of a bench, then the duck flaps to the top of the bench.",
+    "prompt_id": "1340_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1343_TL_F81_seed00.mp4",
+    "prompt": "In a misty forest clearing with distant trees in the background and quiet air with almost no wind, a fox is on the top of a stump, then the fox jumps to the left of the stump.",
+    "prompt_id": "1343_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1343_TL_F81_seed01.mp4",
+    "prompt": "In a misty forest clearing with distant trees in the background and quiet air with almost no wind, a fox is on the top of a stump, then the fox jumps to the left of the stump.",
+    "prompt_id": "1343_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1343_TL_F81_seed02.mp4",
+    "prompt": "In a misty forest clearing with distant trees in the background and quiet air with almost no wind, a fox is on the top of a stump, then the fox jumps to the left of the stump.",
+    "prompt_id": "1343_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1343_TL_F81_seed03.mp4",
+    "prompt": "In a misty forest clearing with distant trees in the background and quiet air with almost no wind, a fox is on the top of a stump, then the fox jumps to the left of the stump.",
+    "prompt_id": "1343_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1343_TL_F81_seed04.mp4",
+    "prompt": "In a misty forest clearing with distant trees in the background and quiet air with almost no wind, a fox is on the top of a stump, then the fox jumps to the left of the stump.",
+    "prompt_id": "1343_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1345_LR_F81_seed00.mp4",
+    "prompt": "In a open shady grove with distant trees in the background and hazy light filtering through the trees, a dog is on the left of a stone, then the dog trots to the right of the stone.",
+    "prompt_id": "1345_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1345_LR_F81_seed01.mp4",
+    "prompt": "In a open shady grove with distant trees in the background and hazy light filtering through the trees, a dog is on the left of a stone, then the dog trots to the right of the stone.",
+    "prompt_id": "1345_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1345_LR_F81_seed02.mp4",
+    "prompt": "In a open shady grove with distant trees in the background and hazy light filtering through the trees, a dog is on the left of a stone, then the dog trots to the right of the stone.",
+    "prompt_id": "1345_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1345_LR_F81_seed03.mp4",
+    "prompt": "In a open shady grove with distant trees in the background and hazy light filtering through the trees, a dog is on the left of a stone, then the dog trots to the right of the stone.",
+    "prompt_id": "1345_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1345_LR_F81_seed04.mp4",
+    "prompt": "In a open shady grove with distant trees in the background and hazy light filtering through the trees, a dog is on the left of a stone, then the dog trots to the right of the stone.",
+    "prompt_id": "1345_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1355_TL_F81_seed00.mp4",
+    "prompt": "In a sloping forest clearing with wildflowers scattered around and birds faintly calling in the distance, a squirrel is on the top of a stone, then the squirrel scampers to the left of the stone.",
+    "prompt_id": "1355_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1355_TL_F81_seed01.mp4",
+    "prompt": "In a sloping forest clearing with wildflowers scattered around and birds faintly calling in the distance, a squirrel is on the top of a stone, then the squirrel scampers to the left of the stone.",
+    "prompt_id": "1355_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1355_TL_F81_seed02.mp4",
+    "prompt": "In a sloping forest clearing with wildflowers scattered around and birds faintly calling in the distance, a squirrel is on the top of a stone, then the squirrel scampers to the left of the stone.",
+    "prompt_id": "1355_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1355_TL_F81_seed03.mp4",
+    "prompt": "In a sloping forest clearing with wildflowers scattered around and birds faintly calling in the distance, a squirrel is on the top of a stone, then the squirrel scampers to the left of the stone.",
+    "prompt_id": "1355_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1355_TL_F81_seed04.mp4",
+    "prompt": "In a sloping forest clearing with wildflowers scattered around and birds faintly calling in the distance, a squirrel is on the top of a stone, then the squirrel scampers to the left of the stone.",
+    "prompt_id": "1355_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1356_LR_F81_seed00.mp4",
+    "prompt": "In a rock-strewn meadow with a faint trail curving away and quiet air with almost no wind, a dog is on the left of a bench, then the dog walks to the right of the bench.",
+    "prompt_id": "1356_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1356_LR_F81_seed01.mp4",
+    "prompt": "In a rock-strewn meadow with a faint trail curving away and quiet air with almost no wind, a dog is on the left of a bench, then the dog walks to the right of the bench.",
+    "prompt_id": "1356_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1356_LR_F81_seed02.mp4",
+    "prompt": "In a rock-strewn meadow with a faint trail curving away and quiet air with almost no wind, a dog is on the left of a bench, then the dog walks to the right of the bench.",
+    "prompt_id": "1356_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1356_LR_F81_seed03.mp4",
+    "prompt": "In a rock-strewn meadow with a faint trail curving away and quiet air with almost no wind, a dog is on the left of a bench, then the dog walks to the right of the bench.",
+    "prompt_id": "1356_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1356_LR_F81_seed04.mp4",
+    "prompt": "In a rock-strewn meadow with a faint trail curving away and quiet air with almost no wind, a dog is on the left of a bench, then the dog walks to the right of the bench.",
+    "prompt_id": "1356_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1373_RL_F81_seed00.mp4",
+    "prompt": "In a quiet grassy field with wildflowers scattered around and the sound of water somewhere nearby, a squirrel is on the right of a stump, then the squirrel scampers to the left of the stump.",
+    "prompt_id": "1373_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1373_RL_F81_seed01.mp4",
+    "prompt": "In a quiet grassy field with wildflowers scattered around and the sound of water somewhere nearby, a squirrel is on the right of a stump, then the squirrel scampers to the left of the stump.",
+    "prompt_id": "1373_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1373_RL_F81_seed02.mp4",
+    "prompt": "In a quiet grassy field with wildflowers scattered around and the sound of water somewhere nearby, a squirrel is on the right of a stump, then the squirrel scampers to the left of the stump.",
+    "prompt_id": "1373_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1373_RL_F81_seed03.mp4",
+    "prompt": "In a quiet grassy field with wildflowers scattered around and the sound of water somewhere nearby, a squirrel is on the right of a stump, then the squirrel scampers to the left of the stump.",
+    "prompt_id": "1373_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1373_RL_F81_seed04.mp4",
+    "prompt": "In a quiet grassy field with wildflowers scattered around and the sound of water somewhere nearby, a squirrel is on the right of a stump, then the squirrel scampers to the left of the stump.",
+    "prompt_id": "1373_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1377_RT_F81_seed00.mp4",
+    "prompt": "In a sloping garden path with a few bushes near the edge and long shadows as the sun sits low, a rabbit is on the right of a bench, then the rabbit jumps to the top of the bench.",
+    "prompt_id": "1377_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1377_RT_F81_seed01.mp4",
+    "prompt": "In a sloping garden path with a few bushes near the edge and long shadows as the sun sits low, a rabbit is on the right of a bench, then the rabbit jumps to the top of the bench.",
+    "prompt_id": "1377_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1377_RT_F81_seed02.mp4",
+    "prompt": "In a sloping garden path with a few bushes near the edge and long shadows as the sun sits low, a rabbit is on the right of a bench, then the rabbit jumps to the top of the bench.",
+    "prompt_id": "1377_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1377_RT_F81_seed03.mp4",
+    "prompt": "In a sloping garden path with a few bushes near the edge and long shadows as the sun sits low, a rabbit is on the right of a bench, then the rabbit jumps to the top of the bench.",
+    "prompt_id": "1377_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1377_RT_F81_seed04.mp4",
+    "prompt": "In a sloping garden path with a few bushes near the edge and long shadows as the sun sits low, a rabbit is on the right of a bench, then the rabbit jumps to the top of the bench.",
+    "prompt_id": "1377_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1383_RL_F81_seed00.mp4",
+    "prompt": "In a misty woodland trail with small rocks underfoot and small insects hovering over the ground, a bird is on the right of a stump, then the bird hops to the left of the stump.",
+    "prompt_id": "1383_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1383_RL_F81_seed01.mp4",
+    "prompt": "In a misty woodland trail with small rocks underfoot and small insects hovering over the ground, a bird is on the right of a stump, then the bird hops to the left of the stump.",
+    "prompt_id": "1383_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1383_RL_F81_seed02.mp4",
+    "prompt": "In a misty woodland trail with small rocks underfoot and small insects hovering over the ground, a bird is on the right of a stump, then the bird hops to the left of the stump.",
+    "prompt_id": "1383_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1383_RL_F81_seed03.mp4",
+    "prompt": "In a misty woodland trail with small rocks underfoot and small insects hovering over the ground, a bird is on the right of a stump, then the bird hops to the left of the stump.",
+    "prompt_id": "1383_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1383_RL_F81_seed04.mp4",
+    "prompt": "In a misty woodland trail with small rocks underfoot and small insects hovering over the ground, a bird is on the right of a stump, then the bird hops to the left of the stump.",
+    "prompt_id": "1383_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1384_LR_F81_seed00.mp4",
+    "prompt": "In a wide dusty path with tall grass swaying gently and small insects hovering over the ground, a duck is on the left of a bench, then the duck waddles to the right of the bench.",
+    "prompt_id": "1384_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1384_LR_F81_seed01.mp4",
+    "prompt": "In a wide dusty path with tall grass swaying gently and small insects hovering over the ground, a duck is on the left of a bench, then the duck waddles to the right of the bench.",
+    "prompt_id": "1384_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1384_LR_F81_seed02.mp4",
+    "prompt": "In a wide dusty path with tall grass swaying gently and small insects hovering over the ground, a duck is on the left of a bench, then the duck waddles to the right of the bench.",
+    "prompt_id": "1384_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1384_LR_F81_seed03.mp4",
+    "prompt": "In a wide dusty path with tall grass swaying gently and small insects hovering over the ground, a duck is on the left of a bench, then the duck waddles to the right of the bench.",
+    "prompt_id": "1384_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1384_LR_F81_seed04.mp4",
+    "prompt": "In a wide dusty path with tall grass swaying gently and small insects hovering over the ground, a duck is on the left of a bench, then the duck waddles to the right of the bench.",
+    "prompt_id": "1384_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1387_TR_F81_seed00.mp4",
+    "prompt": "In a open campsite with tall grass swaying gently and clouds drifting slowly by, a hamster is on the top of a rock, then the hamster crawls to the right of the rock.",
+    "prompt_id": "1387_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1387_TR_F81_seed01.mp4",
+    "prompt": "In a open campsite with tall grass swaying gently and clouds drifting slowly by, a hamster is on the top of a rock, then the hamster crawls to the right of the rock.",
+    "prompt_id": "1387_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1387_TR_F81_seed02.mp4",
+    "prompt": "In a open campsite with tall grass swaying gently and clouds drifting slowly by, a hamster is on the top of a rock, then the hamster crawls to the right of the rock.",
+    "prompt_id": "1387_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1387_TR_F81_seed03.mp4",
+    "prompt": "In a open campsite with tall grass swaying gently and clouds drifting slowly by, a hamster is on the top of a rock, then the hamster crawls to the right of the rock.",
+    "prompt_id": "1387_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1387_TR_F81_seed04.mp4",
+    "prompt": "In a open campsite with tall grass swaying gently and clouds drifting slowly by, a hamster is on the top of a rock, then the hamster crawls to the right of the rock.",
+    "prompt_id": "1387_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1389_LR_F81_seed00.mp4",
+    "prompt": "In a sloping campsite with fallen leaves on the ground and long shadows as the sun sits low, a squirrel is on the left of a stump, then the squirrel leaps to the right of the stump.",
+    "prompt_id": "1389_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1389_LR_F81_seed01.mp4",
+    "prompt": "In a sloping campsite with fallen leaves on the ground and long shadows as the sun sits low, a squirrel is on the left of a stump, then the squirrel leaps to the right of the stump.",
+    "prompt_id": "1389_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1389_LR_F81_seed02.mp4",
+    "prompt": "In a sloping campsite with fallen leaves on the ground and long shadows as the sun sits low, a squirrel is on the left of a stump, then the squirrel leaps to the right of the stump.",
+    "prompt_id": "1389_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1389_LR_F81_seed03.mp4",
+    "prompt": "In a sloping campsite with fallen leaves on the ground and long shadows as the sun sits low, a squirrel is on the left of a stump, then the squirrel leaps to the right of the stump.",
+    "prompt_id": "1389_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1389_LR_F81_seed04.mp4",
+    "prompt": "In a sloping campsite with fallen leaves on the ground and long shadows as the sun sits low, a squirrel is on the left of a stump, then the squirrel leaps to the right of the stump.",
+    "prompt_id": "1389_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1392_TR_F81_seed00.mp4",
+    "prompt": "In a wide garden path with small rocks underfoot and a pale sky overhead, a fox is on the top of a rock, then the fox dashes to the right of the rock.",
+    "prompt_id": "1392_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1392_TR_F81_seed01.mp4",
+    "prompt": "In a wide garden path with small rocks underfoot and a pale sky overhead, a fox is on the top of a rock, then the fox dashes to the right of the rock.",
+    "prompt_id": "1392_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1392_TR_F81_seed02.mp4",
+    "prompt": "In a wide garden path with small rocks underfoot and a pale sky overhead, a fox is on the top of a rock, then the fox dashes to the right of the rock.",
+    "prompt_id": "1392_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1392_TR_F81_seed03.mp4",
+    "prompt": "In a wide garden path with small rocks underfoot and a pale sky overhead, a fox is on the top of a rock, then the fox dashes to the right of the rock.",
+    "prompt_id": "1392_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1392_TR_F81_seed04.mp4",
+    "prompt": "In a wide garden path with small rocks underfoot and a pale sky overhead, a fox is on the top of a rock, then the fox dashes to the right of the rock.",
+    "prompt_id": "1392_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1396_RT_F81_seed00.mp4",
+    "prompt": "In a sunlit hillside slope with patches of bare earth and long shadows as the sun sits low, a rabbit is on the right of a stump, then the rabbit jumps to the top of the stump.",
+    "prompt_id": "1396_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1396_RT_F81_seed01.mp4",
+    "prompt": "In a sunlit hillside slope with patches of bare earth and long shadows as the sun sits low, a rabbit is on the right of a stump, then the rabbit jumps to the top of the stump.",
+    "prompt_id": "1396_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1396_RT_F81_seed02.mp4",
+    "prompt": "In a sunlit hillside slope with patches of bare earth and long shadows as the sun sits low, a rabbit is on the right of a stump, then the rabbit jumps to the top of the stump.",
+    "prompt_id": "1396_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1396_RT_F81_seed03.mp4",
+    "prompt": "In a sunlit hillside slope with patches of bare earth and long shadows as the sun sits low, a rabbit is on the right of a stump, then the rabbit jumps to the top of the stump.",
+    "prompt_id": "1396_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1396_RT_F81_seed04.mp4",
+    "prompt": "In a sunlit hillside slope with patches of bare earth and long shadows as the sun sits low, a rabbit is on the right of a stump, then the rabbit jumps to the top of the stump.",
+    "prompt_id": "1396_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1398_RL_F81_seed00.mp4",
+    "prompt": "In a sunlit grassy field with fallen leaves on the ground and distant hills on the horizon, a fox is on the right of a stump, then the fox walks to the left of the stump.",
+    "prompt_id": "1398_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1398_RL_F81_seed01.mp4",
+    "prompt": "In a sunlit grassy field with fallen leaves on the ground and distant hills on the horizon, a fox is on the right of a stump, then the fox walks to the left of the stump.",
+    "prompt_id": "1398_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1398_RL_F81_seed02.mp4",
+    "prompt": "In a sunlit grassy field with fallen leaves on the ground and distant hills on the horizon, a fox is on the right of a stump, then the fox walks to the left of the stump.",
+    "prompt_id": "1398_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1398_RL_F81_seed03.mp4",
+    "prompt": "In a sunlit grassy field with fallen leaves on the ground and distant hills on the horizon, a fox is on the right of a stump, then the fox walks to the left of the stump.",
+    "prompt_id": "1398_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1398_RL_F81_seed04.mp4",
+    "prompt": "In a sunlit grassy field with fallen leaves on the ground and distant hills on the horizon, a fox is on the right of a stump, then the fox walks to the left of the stump.",
+    "prompt_id": "1398_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1403_RT_F81_seed00.mp4",
+    "prompt": "In a misty woodland trail with a few bushes near the edge and long shadows as the sun sits low, a hamster is on the right of a stump, then the hamster hurries to the top of the stump.",
+    "prompt_id": "1403_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1403_RT_F81_seed01.mp4",
+    "prompt": "In a misty woodland trail with a few bushes near the edge and long shadows as the sun sits low, a hamster is on the right of a stump, then the hamster hurries to the top of the stump.",
+    "prompt_id": "1403_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1403_RT_F81_seed02.mp4",
+    "prompt": "In a misty woodland trail with a few bushes near the edge and long shadows as the sun sits low, a hamster is on the right of a stump, then the hamster hurries to the top of the stump.",
+    "prompt_id": "1403_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1403_RT_F81_seed03.mp4",
+    "prompt": "In a misty woodland trail with a few bushes near the edge and long shadows as the sun sits low, a hamster is on the right of a stump, then the hamster hurries to the top of the stump.",
+    "prompt_id": "1403_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1403_RT_F81_seed04.mp4",
+    "prompt": "In a misty woodland trail with a few bushes near the edge and long shadows as the sun sits low, a hamster is on the right of a stump, then the hamster hurries to the top of the stump.",
+    "prompt_id": "1403_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1405_RT_F81_seed00.mp4",
+    "prompt": "In a rock-strewn riverbank with small rocks underfoot and small insects hovering over the ground, a duck is on the right of a rock, then the duck waddles to the top of the rock.",
+    "prompt_id": "1405_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1405_RT_F81_seed01.mp4",
+    "prompt": "In a rock-strewn riverbank with small rocks underfoot and small insects hovering over the ground, a duck is on the right of a rock, then the duck waddles to the top of the rock.",
+    "prompt_id": "1405_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1405_RT_F81_seed02.mp4",
+    "prompt": "In a rock-strewn riverbank with small rocks underfoot and small insects hovering over the ground, a duck is on the right of a rock, then the duck waddles to the top of the rock.",
+    "prompt_id": "1405_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1405_RT_F81_seed03.mp4",
+    "prompt": "In a rock-strewn riverbank with small rocks underfoot and small insects hovering over the ground, a duck is on the right of a rock, then the duck waddles to the top of the rock.",
+    "prompt_id": "1405_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1405_RT_F81_seed04.mp4",
+    "prompt": "In a rock-strewn riverbank with small rocks underfoot and small insects hovering over the ground, a duck is on the right of a rock, then the duck waddles to the top of the rock.",
+    "prompt_id": "1405_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1409_TR_F81_seed00.mp4",
+    "prompt": "In a wide shady grove with wildflowers scattered around and hazy light filtering through the trees, a duck is on the top of a bench, then the duck flaps to the right of the bench.",
+    "prompt_id": "1409_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1409_TR_F81_seed01.mp4",
+    "prompt": "In a wide shady grove with wildflowers scattered around and hazy light filtering through the trees, a duck is on the top of a bench, then the duck flaps to the right of the bench.",
+    "prompt_id": "1409_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1409_TR_F81_seed02.mp4",
+    "prompt": "In a wide shady grove with wildflowers scattered around and hazy light filtering through the trees, a duck is on the top of a bench, then the duck flaps to the right of the bench.",
+    "prompt_id": "1409_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1409_TR_F81_seed03.mp4",
+    "prompt": "In a wide shady grove with wildflowers scattered around and hazy light filtering through the trees, a duck is on the top of a bench, then the duck flaps to the right of the bench.",
+    "prompt_id": "1409_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1409_TR_F81_seed04.mp4",
+    "prompt": "In a wide shady grove with wildflowers scattered around and hazy light filtering through the trees, a duck is on the top of a bench, then the duck flaps to the right of the bench.",
+    "prompt_id": "1409_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1410_RL_F81_seed00.mp4",
+    "prompt": "In a quiet campsite with shadows from nearby trees and quiet air with almost no wind, a duck is on the right of a bench, then the duck waddles to the left of the bench.",
+    "prompt_id": "1410_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1410_RL_F81_seed01.mp4",
+    "prompt": "In a quiet campsite with shadows from nearby trees and quiet air with almost no wind, a duck is on the right of a bench, then the duck waddles to the left of the bench.",
+    "prompt_id": "1410_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1410_RL_F81_seed02.mp4",
+    "prompt": "In a quiet campsite with shadows from nearby trees and quiet air with almost no wind, a duck is on the right of a bench, then the duck waddles to the left of the bench.",
+    "prompt_id": "1410_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1410_RL_F81_seed03.mp4",
+    "prompt": "In a quiet campsite with shadows from nearby trees and quiet air with almost no wind, a duck is on the right of a bench, then the duck waddles to the left of the bench.",
+    "prompt_id": "1410_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1410_RL_F81_seed04.mp4",
+    "prompt": "In a quiet campsite with shadows from nearby trees and quiet air with almost no wind, a duck is on the right of a bench, then the duck waddles to the left of the bench.",
+    "prompt_id": "1410_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1414_RT_F81_seed00.mp4",
+    "prompt": "In a peaceful woodland trail with small rocks underfoot and a cool breeze moving the grass, a cat is on the right of a stone, then the cat prowls to the top of the stone.",
+    "prompt_id": "1414_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1414_RT_F81_seed01.mp4",
+    "prompt": "In a peaceful woodland trail with small rocks underfoot and a cool breeze moving the grass, a cat is on the right of a stone, then the cat prowls to the top of the stone.",
+    "prompt_id": "1414_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1414_RT_F81_seed02.mp4",
+    "prompt": "In a peaceful woodland trail with small rocks underfoot and a cool breeze moving the grass, a cat is on the right of a stone, then the cat prowls to the top of the stone.",
+    "prompt_id": "1414_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1414_RT_F81_seed03.mp4",
+    "prompt": "In a peaceful woodland trail with small rocks underfoot and a cool breeze moving the grass, a cat is on the right of a stone, then the cat prowls to the top of the stone.",
+    "prompt_id": "1414_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1414_RT_F81_seed04.mp4",
+    "prompt": "In a peaceful woodland trail with small rocks underfoot and a cool breeze moving the grass, a cat is on the right of a stone, then the cat prowls to the top of the stone.",
+    "prompt_id": "1414_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1417_RL_F81_seed00.mp4",
+    "prompt": "In a open campsite with tall grass swaying gently and quiet air with almost no wind, a fox is on the right of a bench, then the fox walks to the left of the bench.",
+    "prompt_id": "1417_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1417_RL_F81_seed01.mp4",
+    "prompt": "In a open campsite with tall grass swaying gently and quiet air with almost no wind, a fox is on the right of a bench, then the fox walks to the left of the bench.",
+    "prompt_id": "1417_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1417_RL_F81_seed02.mp4",
+    "prompt": "In a open campsite with tall grass swaying gently and quiet air with almost no wind, a fox is on the right of a bench, then the fox walks to the left of the bench.",
+    "prompt_id": "1417_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1417_RL_F81_seed03.mp4",
+    "prompt": "In a open campsite with tall grass swaying gently and quiet air with almost no wind, a fox is on the right of a bench, then the fox walks to the left of the bench.",
+    "prompt_id": "1417_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1417_RL_F81_seed04.mp4",
+    "prompt": "In a open campsite with tall grass swaying gently and quiet air with almost no wind, a fox is on the right of a bench, then the fox walks to the left of the bench.",
+    "prompt_id": "1417_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1422_TL_F81_seed00.mp4",
+    "prompt": "In a sloping shady grove with tall grass swaying gently and birds faintly calling in the distance, a hamster is on the top of a bench, then the hamster scurries to the left of the bench.",
+    "prompt_id": "1422_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1422_TL_F81_seed01.mp4",
+    "prompt": "In a sloping shady grove with tall grass swaying gently and birds faintly calling in the distance, a hamster is on the top of a bench, then the hamster scurries to the left of the bench.",
+    "prompt_id": "1422_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1422_TL_F81_seed02.mp4",
+    "prompt": "In a sloping shady grove with tall grass swaying gently and birds faintly calling in the distance, a hamster is on the top of a bench, then the hamster scurries to the left of the bench.",
+    "prompt_id": "1422_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1422_TL_F81_seed03.mp4",
+    "prompt": "In a sloping shady grove with tall grass swaying gently and birds faintly calling in the distance, a hamster is on the top of a bench, then the hamster scurries to the left of the bench.",
+    "prompt_id": "1422_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1422_TL_F81_seed04.mp4",
+    "prompt": "In a sloping shady grove with tall grass swaying gently and birds faintly calling in the distance, a hamster is on the top of a bench, then the hamster scurries to the left of the bench.",
+    "prompt_id": "1422_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1434_TL_F81_seed00.mp4",
+    "prompt": "In a sloping park lawn with distant trees in the background and distant hills on the horizon, a fox is on the top of a stump, then the fox jumps to the left of the stump.",
+    "prompt_id": "1434_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1434_TL_F81_seed01.mp4",
+    "prompt": "In a sloping park lawn with distant trees in the background and distant hills on the horizon, a fox is on the top of a stump, then the fox jumps to the left of the stump.",
+    "prompt_id": "1434_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1434_TL_F81_seed02.mp4",
+    "prompt": "In a sloping park lawn with distant trees in the background and distant hills on the horizon, a fox is on the top of a stump, then the fox jumps to the left of the stump.",
+    "prompt_id": "1434_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1434_TL_F81_seed03.mp4",
+    "prompt": "In a sloping park lawn with distant trees in the background and distant hills on the horizon, a fox is on the top of a stump, then the fox jumps to the left of the stump.",
+    "prompt_id": "1434_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1434_TL_F81_seed04.mp4",
+    "prompt": "In a sloping park lawn with distant trees in the background and distant hills on the horizon, a fox is on the top of a stump, then the fox jumps to the left of the stump.",
+    "prompt_id": "1434_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1444_RT_F81_seed00.mp4",
+    "prompt": "In a sloping campsite with tall grass swaying gently and a cool breeze moving the grass, a bird is on the right of a rock, then the bird hops to the top of the rock.",
+    "prompt_id": "1444_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1444_RT_F81_seed01.mp4",
+    "prompt": "In a sloping campsite with tall grass swaying gently and a cool breeze moving the grass, a bird is on the right of a rock, then the bird hops to the top of the rock.",
+    "prompt_id": "1444_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1444_RT_F81_seed02.mp4",
+    "prompt": "In a sloping campsite with tall grass swaying gently and a cool breeze moving the grass, a bird is on the right of a rock, then the bird hops to the top of the rock.",
+    "prompt_id": "1444_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1444_RT_F81_seed03.mp4",
+    "prompt": "In a sloping campsite with tall grass swaying gently and a cool breeze moving the grass, a bird is on the right of a rock, then the bird hops to the top of the rock.",
+    "prompt_id": "1444_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1444_RT_F81_seed04.mp4",
+    "prompt": "In a sloping campsite with tall grass swaying gently and a cool breeze moving the grass, a bird is on the right of a rock, then the bird hops to the top of the rock.",
+    "prompt_id": "1444_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1448_RT_F81_seed00.mp4",
+    "prompt": "In a misty forest clearing with tall grass swaying gently and clouds drifting slowly by, a duck is on the right of a bench, then the duck waddles to the top of the bench.",
+    "prompt_id": "1448_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1448_RT_F81_seed01.mp4",
+    "prompt": "In a misty forest clearing with tall grass swaying gently and clouds drifting slowly by, a duck is on the right of a bench, then the duck waddles to the top of the bench.",
+    "prompt_id": "1448_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1448_RT_F81_seed02.mp4",
+    "prompt": "In a misty forest clearing with tall grass swaying gently and clouds drifting slowly by, a duck is on the right of a bench, then the duck waddles to the top of the bench.",
+    "prompt_id": "1448_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1448_RT_F81_seed03.mp4",
+    "prompt": "In a misty forest clearing with tall grass swaying gently and clouds drifting slowly by, a duck is on the right of a bench, then the duck waddles to the top of the bench.",
+    "prompt_id": "1448_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1448_RT_F81_seed04.mp4",
+    "prompt": "In a misty forest clearing with tall grass swaying gently and clouds drifting slowly by, a duck is on the right of a bench, then the duck waddles to the top of the bench.",
+    "prompt_id": "1448_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1451_RT_F81_seed00.mp4",
+    "prompt": "In a wide garden path with small rocks underfoot and birds faintly calling in the distance, a squirrel is on the right of a rock, then the squirrel scampers to the top of the rock.",
+    "prompt_id": "1451_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1451_RT_F81_seed01.mp4",
+    "prompt": "In a wide garden path with small rocks underfoot and birds faintly calling in the distance, a squirrel is on the right of a rock, then the squirrel scampers to the top of the rock.",
+    "prompt_id": "1451_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1451_RT_F81_seed02.mp4",
+    "prompt": "In a wide garden path with small rocks underfoot and birds faintly calling in the distance, a squirrel is on the right of a rock, then the squirrel scampers to the top of the rock.",
+    "prompt_id": "1451_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1451_RT_F81_seed03.mp4",
+    "prompt": "In a wide garden path with small rocks underfoot and birds faintly calling in the distance, a squirrel is on the right of a rock, then the squirrel scampers to the top of the rock.",
+    "prompt_id": "1451_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1451_RT_F81_seed04.mp4",
+    "prompt": "In a wide garden path with small rocks underfoot and birds faintly calling in the distance, a squirrel is on the right of a rock, then the squirrel scampers to the top of the rock.",
+    "prompt_id": "1451_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1452_TL_F81_seed00.mp4",
+    "prompt": "In a sunlit rocky shore with fallen leaves on the ground and the sound of water somewhere nearby, a squirrel is on the top of a stump, then the squirrel darts to the left of the stump.",
+    "prompt_id": "1452_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1452_TL_F81_seed01.mp4",
+    "prompt": "In a sunlit rocky shore with fallen leaves on the ground and the sound of water somewhere nearby, a squirrel is on the top of a stump, then the squirrel darts to the left of the stump.",
+    "prompt_id": "1452_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1452_TL_F81_seed02.mp4",
+    "prompt": "In a sunlit rocky shore with fallen leaves on the ground and the sound of water somewhere nearby, a squirrel is on the top of a stump, then the squirrel darts to the left of the stump.",
+    "prompt_id": "1452_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1452_TL_F81_seed03.mp4",
+    "prompt": "In a sunlit rocky shore with fallen leaves on the ground and the sound of water somewhere nearby, a squirrel is on the top of a stump, then the squirrel darts to the left of the stump.",
+    "prompt_id": "1452_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1452_TL_F81_seed04.mp4",
+    "prompt": "In a sunlit rocky shore with fallen leaves on the ground and the sound of water somewhere nearby, a squirrel is on the top of a stump, then the squirrel darts to the left of the stump.",
+    "prompt_id": "1452_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1455_LT_F81_seed00.mp4",
+    "prompt": "In a quiet shady grove with distant trees in the background and long shadows as the sun sits low, a dog is on the left of a stump, then the dog jumps to the top of the stump.",
+    "prompt_id": "1455_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1455_LT_F81_seed01.mp4",
+    "prompt": "In a quiet shady grove with distant trees in the background and long shadows as the sun sits low, a dog is on the left of a stump, then the dog jumps to the top of the stump.",
+    "prompt_id": "1455_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1455_LT_F81_seed02.mp4",
+    "prompt": "In a quiet shady grove with distant trees in the background and long shadows as the sun sits low, a dog is on the left of a stump, then the dog jumps to the top of the stump.",
+    "prompt_id": "1455_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1455_LT_F81_seed03.mp4",
+    "prompt": "In a quiet shady grove with distant trees in the background and long shadows as the sun sits low, a dog is on the left of a stump, then the dog jumps to the top of the stump.",
+    "prompt_id": "1455_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1455_LT_F81_seed04.mp4",
+    "prompt": "In a quiet shady grove with distant trees in the background and long shadows as the sun sits low, a dog is on the left of a stump, then the dog jumps to the top of the stump.",
+    "prompt_id": "1455_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1459_TL_F81_seed00.mp4",
+    "prompt": "In a windy park lawn with patches of bare earth and quiet air with almost no wind, a duck is on the top of a stump, then the duck waddles to the left of the stump.",
+    "prompt_id": "1459_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1459_TL_F81_seed01.mp4",
+    "prompt": "In a windy park lawn with patches of bare earth and quiet air with almost no wind, a duck is on the top of a stump, then the duck waddles to the left of the stump.",
+    "prompt_id": "1459_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1459_TL_F81_seed02.mp4",
+    "prompt": "In a windy park lawn with patches of bare earth and quiet air with almost no wind, a duck is on the top of a stump, then the duck waddles to the left of the stump.",
+    "prompt_id": "1459_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1459_TL_F81_seed03.mp4",
+    "prompt": "In a windy park lawn with patches of bare earth and quiet air with almost no wind, a duck is on the top of a stump, then the duck waddles to the left of the stump.",
+    "prompt_id": "1459_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1459_TL_F81_seed04.mp4",
+    "prompt": "In a windy park lawn with patches of bare earth and quiet air with almost no wind, a duck is on the top of a stump, then the duck waddles to the left of the stump.",
+    "prompt_id": "1459_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1464_TL_F81_seed00.mp4",
+    "prompt": "In a rock-strewn woodland trail with patches of bare earth and a pale sky overhead, a bird is on the top of a bench, then the bird flutters to the left of the bench.",
+    "prompt_id": "1464_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1464_TL_F81_seed01.mp4",
+    "prompt": "In a rock-strewn woodland trail with patches of bare earth and a pale sky overhead, a bird is on the top of a bench, then the bird flutters to the left of the bench.",
+    "prompt_id": "1464_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1464_TL_F81_seed02.mp4",
+    "prompt": "In a rock-strewn woodland trail with patches of bare earth and a pale sky overhead, a bird is on the top of a bench, then the bird flutters to the left of the bench.",
+    "prompt_id": "1464_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1464_TL_F81_seed03.mp4",
+    "prompt": "In a rock-strewn woodland trail with patches of bare earth and a pale sky overhead, a bird is on the top of a bench, then the bird flutters to the left of the bench.",
+    "prompt_id": "1464_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1464_TL_F81_seed04.mp4",
+    "prompt": "In a rock-strewn woodland trail with patches of bare earth and a pale sky overhead, a bird is on the top of a bench, then the bird flutters to the left of the bench.",
+    "prompt_id": "1464_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1468_RT_F81_seed00.mp4",
+    "prompt": "In a breezy meadow with distant trees in the background and hazy light filtering through the trees, a bird is on the right of a bench, then the bird hops to the top of the bench.",
+    "prompt_id": "1468_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1468_RT_F81_seed01.mp4",
+    "prompt": "In a breezy meadow with distant trees in the background and hazy light filtering through the trees, a bird is on the right of a bench, then the bird hops to the top of the bench.",
+    "prompt_id": "1468_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1468_RT_F81_seed02.mp4",
+    "prompt": "In a breezy meadow with distant trees in the background and hazy light filtering through the trees, a bird is on the right of a bench, then the bird hops to the top of the bench.",
+    "prompt_id": "1468_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1468_RT_F81_seed03.mp4",
+    "prompt": "In a breezy meadow with distant trees in the background and hazy light filtering through the trees, a bird is on the right of a bench, then the bird hops to the top of the bench.",
+    "prompt_id": "1468_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1468_RT_F81_seed04.mp4",
+    "prompt": "In a breezy meadow with distant trees in the background and hazy light filtering through the trees, a bird is on the right of a bench, then the bird hops to the top of the bench.",
+    "prompt_id": "1468_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1472_TR_F81_seed00.mp4",
+    "prompt": "In a sloping grassy field with small rocks underfoot and distant hills on the horizon, a duck is on the top of a rock, then the duck flaps to the right of the rock.",
+    "prompt_id": "1472_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1472_TR_F81_seed01.mp4",
+    "prompt": "In a sloping grassy field with small rocks underfoot and distant hills on the horizon, a duck is on the top of a rock, then the duck flaps to the right of the rock.",
+    "prompt_id": "1472_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1472_TR_F81_seed02.mp4",
+    "prompt": "In a sloping grassy field with small rocks underfoot and distant hills on the horizon, a duck is on the top of a rock, then the duck flaps to the right of the rock.",
+    "prompt_id": "1472_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1472_TR_F81_seed03.mp4",
+    "prompt": "In a sloping grassy field with small rocks underfoot and distant hills on the horizon, a duck is on the top of a rock, then the duck flaps to the right of the rock.",
+    "prompt_id": "1472_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1472_TR_F81_seed04.mp4",
+    "prompt": "In a sloping grassy field with small rocks underfoot and distant hills on the horizon, a duck is on the top of a rock, then the duck flaps to the right of the rock.",
+    "prompt_id": "1472_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1478_LT_F81_seed00.mp4",
+    "prompt": "In a rock-strewn riverbank with patches of bare earth and hazy light filtering through the trees, a rabbit is on the left of a bench, then the rabbit jumps to the top of the bench.",
+    "prompt_id": "1478_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1478_LT_F81_seed01.mp4",
+    "prompt": "In a rock-strewn riverbank with patches of bare earth and hazy light filtering through the trees, a rabbit is on the left of a bench, then the rabbit jumps to the top of the bench.",
+    "prompt_id": "1478_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1478_LT_F81_seed02.mp4",
+    "prompt": "In a rock-strewn riverbank with patches of bare earth and hazy light filtering through the trees, a rabbit is on the left of a bench, then the rabbit jumps to the top of the bench.",
+    "prompt_id": "1478_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1478_LT_F81_seed03.mp4",
+    "prompt": "In a rock-strewn riverbank with patches of bare earth and hazy light filtering through the trees, a rabbit is on the left of a bench, then the rabbit jumps to the top of the bench.",
+    "prompt_id": "1478_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1478_LT_F81_seed04.mp4",
+    "prompt": "In a rock-strewn riverbank with patches of bare earth and hazy light filtering through the trees, a rabbit is on the left of a bench, then the rabbit jumps to the top of the bench.",
+    "prompt_id": "1478_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1483_TR_F81_seed00.mp4",
+    "prompt": "In a quiet meadow with distant trees in the background and hazy light filtering through the trees, a squirrel is on the top of a rock, then the squirrel leaps to the right of the rock.",
+    "prompt_id": "1483_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1483_TR_F81_seed01.mp4",
+    "prompt": "In a quiet meadow with distant trees in the background and hazy light filtering through the trees, a squirrel is on the top of a rock, then the squirrel leaps to the right of the rock.",
+    "prompt_id": "1483_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1483_TR_F81_seed02.mp4",
+    "prompt": "In a quiet meadow with distant trees in the background and hazy light filtering through the trees, a squirrel is on the top of a rock, then the squirrel leaps to the right of the rock.",
+    "prompt_id": "1483_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1483_TR_F81_seed03.mp4",
+    "prompt": "In a quiet meadow with distant trees in the background and hazy light filtering through the trees, a squirrel is on the top of a rock, then the squirrel leaps to the right of the rock.",
+    "prompt_id": "1483_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1483_TR_F81_seed04.mp4",
+    "prompt": "In a quiet meadow with distant trees in the background and hazy light filtering through the trees, a squirrel is on the top of a rock, then the squirrel leaps to the right of the rock.",
+    "prompt_id": "1483_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1484_LR_F81_seed00.mp4",
+    "prompt": "In a sunlit dusty path with soft soil underfoot and the sound of water somewhere nearby, a cat is on the left of a stump, then the cat walks to the right of the stump.",
+    "prompt_id": "1484_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1484_LR_F81_seed01.mp4",
+    "prompt": "In a sunlit dusty path with soft soil underfoot and the sound of water somewhere nearby, a cat is on the left of a stump, then the cat walks to the right of the stump.",
+    "prompt_id": "1484_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1484_LR_F81_seed02.mp4",
+    "prompt": "In a sunlit dusty path with soft soil underfoot and the sound of water somewhere nearby, a cat is on the left of a stump, then the cat walks to the right of the stump.",
+    "prompt_id": "1484_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1484_LR_F81_seed03.mp4",
+    "prompt": "In a sunlit dusty path with soft soil underfoot and the sound of water somewhere nearby, a cat is on the left of a stump, then the cat walks to the right of the stump.",
+    "prompt_id": "1484_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1484_LR_F81_seed04.mp4",
+    "prompt": "In a sunlit dusty path with soft soil underfoot and the sound of water somewhere nearby, a cat is on the left of a stump, then the cat walks to the right of the stump.",
+    "prompt_id": "1484_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1487_TR_F81_seed00.mp4",
+    "prompt": "In a windy grassy field with distant trees in the background and quiet air with almost no wind, a fox is on the top of a rock, then the fox dashes to the right of the rock.",
+    "prompt_id": "1487_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1487_TR_F81_seed01.mp4",
+    "prompt": "In a windy grassy field with distant trees in the background and quiet air with almost no wind, a fox is on the top of a rock, then the fox dashes to the right of the rock.",
+    "prompt_id": "1487_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1487_TR_F81_seed02.mp4",
+    "prompt": "In a windy grassy field with distant trees in the background and quiet air with almost no wind, a fox is on the top of a rock, then the fox dashes to the right of the rock.",
+    "prompt_id": "1487_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1487_TR_F81_seed03.mp4",
+    "prompt": "In a windy grassy field with distant trees in the background and quiet air with almost no wind, a fox is on the top of a rock, then the fox dashes to the right of the rock.",
+    "prompt_id": "1487_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1487_TR_F81_seed04.mp4",
+    "prompt": "In a windy grassy field with distant trees in the background and quiet air with almost no wind, a fox is on the top of a rock, then the fox dashes to the right of the rock.",
+    "prompt_id": "1487_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1490_TL_F81_seed00.mp4",
+    "prompt": "In a peaceful dusty path with fallen leaves on the ground and the sound of water somewhere nearby, a rabbit is on the top of a stump, then the rabbit jumps to the left of the stump.",
+    "prompt_id": "1490_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1490_TL_F81_seed01.mp4",
+    "prompt": "In a peaceful dusty path with fallen leaves on the ground and the sound of water somewhere nearby, a rabbit is on the top of a stump, then the rabbit jumps to the left of the stump.",
+    "prompt_id": "1490_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1490_TL_F81_seed02.mp4",
+    "prompt": "In a peaceful dusty path with fallen leaves on the ground and the sound of water somewhere nearby, a rabbit is on the top of a stump, then the rabbit jumps to the left of the stump.",
+    "prompt_id": "1490_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1490_TL_F81_seed03.mp4",
+    "prompt": "In a peaceful dusty path with fallen leaves on the ground and the sound of water somewhere nearby, a rabbit is on the top of a stump, then the rabbit jumps to the left of the stump.",
+    "prompt_id": "1490_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1490_TL_F81_seed04.mp4",
+    "prompt": "In a peaceful dusty path with fallen leaves on the ground and the sound of water somewhere nearby, a rabbit is on the top of a stump, then the rabbit jumps to the left of the stump.",
+    "prompt_id": "1490_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1506_RL_F81_seed00.mp4",
+    "prompt": "In a rock-strewn rocky shore with soft soil underfoot and long shadows as the sun sits low, a dog is on the right of a stump, then the dog walks to the left of the stump.",
+    "prompt_id": "1506_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1506_RL_F81_seed01.mp4",
+    "prompt": "In a rock-strewn rocky shore with soft soil underfoot and long shadows as the sun sits low, a dog is on the right of a stump, then the dog walks to the left of the stump.",
+    "prompt_id": "1506_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1506_RL_F81_seed02.mp4",
+    "prompt": "In a rock-strewn rocky shore with soft soil underfoot and long shadows as the sun sits low, a dog is on the right of a stump, then the dog walks to the left of the stump.",
+    "prompt_id": "1506_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1506_RL_F81_seed03.mp4",
+    "prompt": "In a rock-strewn rocky shore with soft soil underfoot and long shadows as the sun sits low, a dog is on the right of a stump, then the dog walks to the left of the stump.",
+    "prompt_id": "1506_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1506_RL_F81_seed04.mp4",
+    "prompt": "In a rock-strewn rocky shore with soft soil underfoot and long shadows as the sun sits low, a dog is on the right of a stump, then the dog walks to the left of the stump.",
+    "prompt_id": "1506_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1514_LT_F81_seed00.mp4",
+    "prompt": "In a rock-strewn meadow with soft soil underfoot and small insects hovering over the ground, a fox is on the left of a rock, then the fox jumps to the top of the rock.",
+    "prompt_id": "1514_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1514_LT_F81_seed01.mp4",
+    "prompt": "In a rock-strewn meadow with soft soil underfoot and small insects hovering over the ground, a fox is on the left of a rock, then the fox jumps to the top of the rock.",
+    "prompt_id": "1514_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1514_LT_F81_seed02.mp4",
+    "prompt": "In a rock-strewn meadow with soft soil underfoot and small insects hovering over the ground, a fox is on the left of a rock, then the fox jumps to the top of the rock.",
+    "prompt_id": "1514_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1514_LT_F81_seed03.mp4",
+    "prompt": "In a rock-strewn meadow with soft soil underfoot and small insects hovering over the ground, a fox is on the left of a rock, then the fox jumps to the top of the rock.",
+    "prompt_id": "1514_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1514_LT_F81_seed04.mp4",
+    "prompt": "In a rock-strewn meadow with soft soil underfoot and small insects hovering over the ground, a fox is on the left of a rock, then the fox jumps to the top of the rock.",
+    "prompt_id": "1514_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1516_RL_F81_seed00.mp4",
+    "prompt": "In a quiet dusty path with soft soil underfoot and hazy light filtering through the trees, a rabbit is on the right of a stump, then the rabbit jumps to the left of the stump.",
+    "prompt_id": "1516_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1516_RL_F81_seed01.mp4",
+    "prompt": "In a quiet dusty path with soft soil underfoot and hazy light filtering through the trees, a rabbit is on the right of a stump, then the rabbit jumps to the left of the stump.",
+    "prompt_id": "1516_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1516_RL_F81_seed02.mp4",
+    "prompt": "In a quiet dusty path with soft soil underfoot and hazy light filtering through the trees, a rabbit is on the right of a stump, then the rabbit jumps to the left of the stump.",
+    "prompt_id": "1516_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1516_RL_F81_seed03.mp4",
+    "prompt": "In a quiet dusty path with soft soil underfoot and hazy light filtering through the trees, a rabbit is on the right of a stump, then the rabbit jumps to the left of the stump.",
+    "prompt_id": "1516_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1516_RL_F81_seed04.mp4",
+    "prompt": "In a quiet dusty path with soft soil underfoot and hazy light filtering through the trees, a rabbit is on the right of a stump, then the rabbit jumps to the left of the stump.",
+    "prompt_id": "1516_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1522_RT_F81_seed00.mp4",
+    "prompt": "In a breezy dusty path with tall grass swaying gently and distant hills on the horizon, a fox is on the right of a rock, then the fox sprints to the top of the rock.",
+    "prompt_id": "1522_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1522_RT_F81_seed01.mp4",
+    "prompt": "In a breezy dusty path with tall grass swaying gently and distant hills on the horizon, a fox is on the right of a rock, then the fox sprints to the top of the rock.",
+    "prompt_id": "1522_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1522_RT_F81_seed02.mp4",
+    "prompt": "In a breezy dusty path with tall grass swaying gently and distant hills on the horizon, a fox is on the right of a rock, then the fox sprints to the top of the rock.",
+    "prompt_id": "1522_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1522_RT_F81_seed03.mp4",
+    "prompt": "In a breezy dusty path with tall grass swaying gently and distant hills on the horizon, a fox is on the right of a rock, then the fox sprints to the top of the rock.",
+    "prompt_id": "1522_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1522_RT_F81_seed04.mp4",
+    "prompt": "In a breezy dusty path with tall grass swaying gently and distant hills on the horizon, a fox is on the right of a rock, then the fox sprints to the top of the rock.",
+    "prompt_id": "1522_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1524_LT_F81_seed00.mp4",
+    "prompt": "In a peaceful forest clearing with a faint trail curving away and clouds drifting slowly by, a duck is on the left of a rock, then the duck flaps to the top of the rock.",
+    "prompt_id": "1524_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1524_LT_F81_seed01.mp4",
+    "prompt": "In a peaceful forest clearing with a faint trail curving away and clouds drifting slowly by, a duck is on the left of a rock, then the duck flaps to the top of the rock.",
+    "prompt_id": "1524_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1524_LT_F81_seed02.mp4",
+    "prompt": "In a peaceful forest clearing with a faint trail curving away and clouds drifting slowly by, a duck is on the left of a rock, then the duck flaps to the top of the rock.",
+    "prompt_id": "1524_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1524_LT_F81_seed03.mp4",
+    "prompt": "In a peaceful forest clearing with a faint trail curving away and clouds drifting slowly by, a duck is on the left of a rock, then the duck flaps to the top of the rock.",
+    "prompt_id": "1524_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1524_LT_F81_seed04.mp4",
+    "prompt": "In a peaceful forest clearing with a faint trail curving away and clouds drifting slowly by, a duck is on the left of a rock, then the duck flaps to the top of the rock.",
+    "prompt_id": "1524_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1530_TL_F81_seed00.mp4",
+    "prompt": "In a open shady grove with a faint trail curving away and clouds drifting slowly by, a dog is on the top of a bench, then the dog bounds to the left of the bench.",
+    "prompt_id": "1530_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1530_TL_F81_seed01.mp4",
+    "prompt": "In a open shady grove with a faint trail curving away and clouds drifting slowly by, a dog is on the top of a bench, then the dog bounds to the left of the bench.",
+    "prompt_id": "1530_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1530_TL_F81_seed02.mp4",
+    "prompt": "In a open shady grove with a faint trail curving away and clouds drifting slowly by, a dog is on the top of a bench, then the dog bounds to the left of the bench.",
+    "prompt_id": "1530_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1530_TL_F81_seed03.mp4",
+    "prompt": "In a open shady grove with a faint trail curving away and clouds drifting slowly by, a dog is on the top of a bench, then the dog bounds to the left of the bench.",
+    "prompt_id": "1530_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1530_TL_F81_seed04.mp4",
+    "prompt": "In a open shady grove with a faint trail curving away and clouds drifting slowly by, a dog is on the top of a bench, then the dog bounds to the left of the bench.",
+    "prompt_id": "1530_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1534_TR_F81_seed00.mp4",
+    "prompt": "In a windy garden path with shadows from nearby trees and long shadows as the sun sits low, a duck is on the top of a rock, then the duck flaps to the right of the rock.",
+    "prompt_id": "1534_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1534_TR_F81_seed01.mp4",
+    "prompt": "In a windy garden path with shadows from nearby trees and long shadows as the sun sits low, a duck is on the top of a rock, then the duck flaps to the right of the rock.",
+    "prompt_id": "1534_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1534_TR_F81_seed02.mp4",
+    "prompt": "In a windy garden path with shadows from nearby trees and long shadows as the sun sits low, a duck is on the top of a rock, then the duck flaps to the right of the rock.",
+    "prompt_id": "1534_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1534_TR_F81_seed03.mp4",
+    "prompt": "In a windy garden path with shadows from nearby trees and long shadows as the sun sits low, a duck is on the top of a rock, then the duck flaps to the right of the rock.",
+    "prompt_id": "1534_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1534_TR_F81_seed04.mp4",
+    "prompt": "In a windy garden path with shadows from nearby trees and long shadows as the sun sits low, a duck is on the top of a rock, then the duck flaps to the right of the rock.",
+    "prompt_id": "1534_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1538_LT_F81_seed00.mp4",
+    "prompt": "In a misty meadow with a faint trail curving away and a cool breeze moving the grass, a fox is on the left of a rock, then the fox jumps to the top of the rock.",
+    "prompt_id": "1538_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1538_LT_F81_seed01.mp4",
+    "prompt": "In a misty meadow with a faint trail curving away and a cool breeze moving the grass, a fox is on the left of a rock, then the fox jumps to the top of the rock.",
+    "prompt_id": "1538_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1538_LT_F81_seed02.mp4",
+    "prompt": "In a misty meadow with a faint trail curving away and a cool breeze moving the grass, a fox is on the left of a rock, then the fox jumps to the top of the rock.",
+    "prompt_id": "1538_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1538_LT_F81_seed03.mp4",
+    "prompt": "In a misty meadow with a faint trail curving away and a cool breeze moving the grass, a fox is on the left of a rock, then the fox jumps to the top of the rock.",
+    "prompt_id": "1538_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1538_LT_F81_seed04.mp4",
+    "prompt": "In a misty meadow with a faint trail curving away and a cool breeze moving the grass, a fox is on the left of a rock, then the fox jumps to the top of the rock.",
+    "prompt_id": "1538_LT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1541_TR_F81_seed00.mp4",
+    "prompt": "In a windy campsite with distant trees in the background and long shadows as the sun sits low, a rabbit is on the top of a stone, then the rabbit jumps to the right of the stone.",
+    "prompt_id": "1541_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1541_TR_F81_seed01.mp4",
+    "prompt": "In a windy campsite with distant trees in the background and long shadows as the sun sits low, a rabbit is on the top of a stone, then the rabbit jumps to the right of the stone.",
+    "prompt_id": "1541_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1541_TR_F81_seed02.mp4",
+    "prompt": "In a windy campsite with distant trees in the background and long shadows as the sun sits low, a rabbit is on the top of a stone, then the rabbit jumps to the right of the stone.",
+    "prompt_id": "1541_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1541_TR_F81_seed03.mp4",
+    "prompt": "In a windy campsite with distant trees in the background and long shadows as the sun sits low, a rabbit is on the top of a stone, then the rabbit jumps to the right of the stone.",
+    "prompt_id": "1541_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1541_TR_F81_seed04.mp4",
+    "prompt": "In a windy campsite with distant trees in the background and long shadows as the sun sits low, a rabbit is on the top of a stone, then the rabbit jumps to the right of the stone.",
+    "prompt_id": "1541_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1552_LR_F81_seed00.mp4",
+    "prompt": "In a misty rocky shore with a faint trail curving away and long shadows as the sun sits low, a fox is on the left of a rock, then the fox walks to the right of the rock.",
+    "prompt_id": "1552_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1552_LR_F81_seed01.mp4",
+    "prompt": "In a misty rocky shore with a faint trail curving away and long shadows as the sun sits low, a fox is on the left of a rock, then the fox walks to the right of the rock.",
+    "prompt_id": "1552_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1552_LR_F81_seed02.mp4",
+    "prompt": "In a misty rocky shore with a faint trail curving away and long shadows as the sun sits low, a fox is on the left of a rock, then the fox walks to the right of the rock.",
+    "prompt_id": "1552_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1552_LR_F81_seed03.mp4",
+    "prompt": "In a misty rocky shore with a faint trail curving away and long shadows as the sun sits low, a fox is on the left of a rock, then the fox walks to the right of the rock.",
+    "prompt_id": "1552_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1552_LR_F81_seed04.mp4",
+    "prompt": "In a misty rocky shore with a faint trail curving away and long shadows as the sun sits low, a fox is on the left of a rock, then the fox walks to the right of the rock.",
+    "prompt_id": "1552_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1554_RL_F81_seed00.mp4",
+    "prompt": "In a rock-strewn garden path with fallen leaves on the ground and birds faintly calling in the distance, a fox is on the right of a stone, then the fox walks to the left of the stone.",
+    "prompt_id": "1554_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1554_RL_F81_seed01.mp4",
+    "prompt": "In a rock-strewn garden path with fallen leaves on the ground and birds faintly calling in the distance, a fox is on the right of a stone, then the fox walks to the left of the stone.",
+    "prompt_id": "1554_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1554_RL_F81_seed02.mp4",
+    "prompt": "In a rock-strewn garden path with fallen leaves on the ground and birds faintly calling in the distance, a fox is on the right of a stone, then the fox walks to the left of the stone.",
+    "prompt_id": "1554_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1554_RL_F81_seed03.mp4",
+    "prompt": "In a rock-strewn garden path with fallen leaves on the ground and birds faintly calling in the distance, a fox is on the right of a stone, then the fox walks to the left of the stone.",
+    "prompt_id": "1554_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1554_RL_F81_seed04.mp4",
+    "prompt": "In a rock-strewn garden path with fallen leaves on the ground and birds faintly calling in the distance, a fox is on the right of a stone, then the fox walks to the left of the stone.",
+    "prompt_id": "1554_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1561_RL_F81_seed00.mp4",
+    "prompt": "In a sunlit meadow with fallen leaves on the ground and small insects hovering over the ground, a hamster is on the right of a stump, then the hamster hurries to the left of the stump.",
+    "prompt_id": "1561_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1561_RL_F81_seed01.mp4",
+    "prompt": "In a sunlit meadow with fallen leaves on the ground and small insects hovering over the ground, a hamster is on the right of a stump, then the hamster hurries to the left of the stump.",
+    "prompt_id": "1561_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1561_RL_F81_seed02.mp4",
+    "prompt": "In a sunlit meadow with fallen leaves on the ground and small insects hovering over the ground, a hamster is on the right of a stump, then the hamster hurries to the left of the stump.",
+    "prompt_id": "1561_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1561_RL_F81_seed03.mp4",
+    "prompt": "In a sunlit meadow with fallen leaves on the ground and small insects hovering over the ground, a hamster is on the right of a stump, then the hamster hurries to the left of the stump.",
+    "prompt_id": "1561_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1561_RL_F81_seed04.mp4",
+    "prompt": "In a sunlit meadow with fallen leaves on the ground and small insects hovering over the ground, a hamster is on the right of a stump, then the hamster hurries to the left of the stump.",
+    "prompt_id": "1561_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1566_LR_F81_seed00.mp4",
+    "prompt": "In a windy dusty path with tall grass swaying gently and a cool breeze moving the grass, a duck is on the left of a bench, then the duck shuffles to the right of the bench.",
+    "prompt_id": "1566_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1566_LR_F81_seed01.mp4",
+    "prompt": "In a windy dusty path with tall grass swaying gently and a cool breeze moving the grass, a duck is on the left of a bench, then the duck shuffles to the right of the bench.",
+    "prompt_id": "1566_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1566_LR_F81_seed02.mp4",
+    "prompt": "In a windy dusty path with tall grass swaying gently and a cool breeze moving the grass, a duck is on the left of a bench, then the duck shuffles to the right of the bench.",
+    "prompt_id": "1566_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1566_LR_F81_seed03.mp4",
+    "prompt": "In a windy dusty path with tall grass swaying gently and a cool breeze moving the grass, a duck is on the left of a bench, then the duck shuffles to the right of the bench.",
+    "prompt_id": "1566_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1566_LR_F81_seed04.mp4",
+    "prompt": "In a windy dusty path with tall grass swaying gently and a cool breeze moving the grass, a duck is on the left of a bench, then the duck shuffles to the right of the bench.",
+    "prompt_id": "1566_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1570_LR_F81_seed00.mp4",
+    "prompt": "In a open dusty path with small rocks underfoot and a pale sky overhead, a fox is on the left of a stone, then the fox walks to the right of the stone.",
+    "prompt_id": "1570_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1570_LR_F81_seed01.mp4",
+    "prompt": "In a open dusty path with small rocks underfoot and a pale sky overhead, a fox is on the left of a stone, then the fox walks to the right of the stone.",
+    "prompt_id": "1570_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1570_LR_F81_seed02.mp4",
+    "prompt": "In a open dusty path with small rocks underfoot and a pale sky overhead, a fox is on the left of a stone, then the fox walks to the right of the stone.",
+    "prompt_id": "1570_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1570_LR_F81_seed03.mp4",
+    "prompt": "In a open dusty path with small rocks underfoot and a pale sky overhead, a fox is on the left of a stone, then the fox walks to the right of the stone.",
+    "prompt_id": "1570_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1570_LR_F81_seed04.mp4",
+    "prompt": "In a open dusty path with small rocks underfoot and a pale sky overhead, a fox is on the left of a stone, then the fox walks to the right of the stone.",
+    "prompt_id": "1570_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1576_LR_F81_seed00.mp4",
+    "prompt": "In a windy park lawn with fallen leaves on the ground and clouds drifting slowly by, a bird is on the left of a rock, then the bird pecks to the right of the rock.",
+    "prompt_id": "1576_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1576_LR_F81_seed01.mp4",
+    "prompt": "In a windy park lawn with fallen leaves on the ground and clouds drifting slowly by, a bird is on the left of a rock, then the bird pecks to the right of the rock.",
+    "prompt_id": "1576_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1576_LR_F81_seed02.mp4",
+    "prompt": "In a windy park lawn with fallen leaves on the ground and clouds drifting slowly by, a bird is on the left of a rock, then the bird pecks to the right of the rock.",
+    "prompt_id": "1576_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1576_LR_F81_seed03.mp4",
+    "prompt": "In a windy park lawn with fallen leaves on the ground and clouds drifting slowly by, a bird is on the left of a rock, then the bird pecks to the right of the rock.",
+    "prompt_id": "1576_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1576_LR_F81_seed04.mp4",
+    "prompt": "In a windy park lawn with fallen leaves on the ground and clouds drifting slowly by, a bird is on the left of a rock, then the bird pecks to the right of the rock.",
+    "prompt_id": "1576_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1578_TR_F81_seed00.mp4",
+    "prompt": "In a sunlit hillside slope with distant trees in the background and clouds drifting slowly by, a dog is on the top of a stump, then the dog trots to the right of the stump.",
+    "prompt_id": "1578_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1578_TR_F81_seed01.mp4",
+    "prompt": "In a sunlit hillside slope with distant trees in the background and clouds drifting slowly by, a dog is on the top of a stump, then the dog trots to the right of the stump.",
+    "prompt_id": "1578_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1578_TR_F81_seed02.mp4",
+    "prompt": "In a sunlit hillside slope with distant trees in the background and clouds drifting slowly by, a dog is on the top of a stump, then the dog trots to the right of the stump.",
+    "prompt_id": "1578_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1578_TR_F81_seed03.mp4",
+    "prompt": "In a sunlit hillside slope with distant trees in the background and clouds drifting slowly by, a dog is on the top of a stump, then the dog trots to the right of the stump.",
+    "prompt_id": "1578_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1578_TR_F81_seed04.mp4",
+    "prompt": "In a sunlit hillside slope with distant trees in the background and clouds drifting slowly by, a dog is on the top of a stump, then the dog trots to the right of the stump.",
+    "prompt_id": "1578_TR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1580_LR_F81_seed00.mp4",
+    "prompt": "In a windy shady grove with a few bushes near the edge and a pale sky overhead, a squirrel is on the left of a stump, then the squirrel leaps to the right of the stump.",
+    "prompt_id": "1580_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1580_LR_F81_seed01.mp4",
+    "prompt": "In a windy shady grove with a few bushes near the edge and a pale sky overhead, a squirrel is on the left of a stump, then the squirrel leaps to the right of the stump.",
+    "prompt_id": "1580_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1580_LR_F81_seed02.mp4",
+    "prompt": "In a windy shady grove with a few bushes near the edge and a pale sky overhead, a squirrel is on the left of a stump, then the squirrel leaps to the right of the stump.",
+    "prompt_id": "1580_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1580_LR_F81_seed03.mp4",
+    "prompt": "In a windy shady grove with a few bushes near the edge and a pale sky overhead, a squirrel is on the left of a stump, then the squirrel leaps to the right of the stump.",
+    "prompt_id": "1580_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1580_LR_F81_seed04.mp4",
+    "prompt": "In a windy shady grove with a few bushes near the edge and a pale sky overhead, a squirrel is on the left of a stump, then the squirrel leaps to the right of the stump.",
+    "prompt_id": "1580_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1587_RT_F81_seed00.mp4",
+    "prompt": "In a wide shady grove with fallen leaves on the ground and the sound of water somewhere nearby, a cat is on the right of a stump, then the cat prowls to the top of the stump.",
+    "prompt_id": "1587_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1587_RT_F81_seed01.mp4",
+    "prompt": "In a wide shady grove with fallen leaves on the ground and the sound of water somewhere nearby, a cat is on the right of a stump, then the cat prowls to the top of the stump.",
+    "prompt_id": "1587_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1587_RT_F81_seed02.mp4",
+    "prompt": "In a wide shady grove with fallen leaves on the ground and the sound of water somewhere nearby, a cat is on the right of a stump, then the cat prowls to the top of the stump.",
+    "prompt_id": "1587_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1587_RT_F81_seed03.mp4",
+    "prompt": "In a wide shady grove with fallen leaves on the ground and the sound of water somewhere nearby, a cat is on the right of a stump, then the cat prowls to the top of the stump.",
+    "prompt_id": "1587_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1587_RT_F81_seed04.mp4",
+    "prompt": "In a wide shady grove with fallen leaves on the ground and the sound of water somewhere nearby, a cat is on the right of a stump, then the cat prowls to the top of the stump.",
+    "prompt_id": "1587_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1598_RT_F81_seed00.mp4",
+    "prompt": "In a breezy rocky shore with soft soil underfoot and distant hills on the horizon, a dog is on the right of a stump, then the dog jumps to the top of the stump.",
+    "prompt_id": "1598_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1598_RT_F81_seed01.mp4",
+    "prompt": "In a breezy rocky shore with soft soil underfoot and distant hills on the horizon, a dog is on the right of a stump, then the dog jumps to the top of the stump.",
+    "prompt_id": "1598_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1598_RT_F81_seed02.mp4",
+    "prompt": "In a breezy rocky shore with soft soil underfoot and distant hills on the horizon, a dog is on the right of a stump, then the dog jumps to the top of the stump.",
+    "prompt_id": "1598_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1598_RT_F81_seed03.mp4",
+    "prompt": "In a breezy rocky shore with soft soil underfoot and distant hills on the horizon, a dog is on the right of a stump, then the dog jumps to the top of the stump.",
+    "prompt_id": "1598_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1598_RT_F81_seed04.mp4",
+    "prompt": "In a breezy rocky shore with soft soil underfoot and distant hills on the horizon, a dog is on the right of a stump, then the dog jumps to the top of the stump.",
+    "prompt_id": "1598_RT",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1601_LR_F81_seed00.mp4",
+    "prompt": "In a quiet hillside slope with a faint trail curving away and the sound of water somewhere nearby, a duck is on the left of a rock, then the duck shuffles to the right of the rock.",
+    "prompt_id": "1601_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1601_LR_F81_seed01.mp4",
+    "prompt": "In a quiet hillside slope with a faint trail curving away and the sound of water somewhere nearby, a duck is on the left of a rock, then the duck shuffles to the right of the rock.",
+    "prompt_id": "1601_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1601_LR_F81_seed02.mp4",
+    "prompt": "In a quiet hillside slope with a faint trail curving away and the sound of water somewhere nearby, a duck is on the left of a rock, then the duck shuffles to the right of the rock.",
+    "prompt_id": "1601_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1601_LR_F81_seed03.mp4",
+    "prompt": "In a quiet hillside slope with a faint trail curving away and the sound of water somewhere nearby, a duck is on the left of a rock, then the duck shuffles to the right of the rock.",
+    "prompt_id": "1601_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1601_LR_F81_seed04.mp4",
+    "prompt": "In a quiet hillside slope with a faint trail curving away and the sound of water somewhere nearby, a duck is on the left of a rock, then the duck shuffles to the right of the rock.",
+    "prompt_id": "1601_LR",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1606_TL_F81_seed00.mp4",
+    "prompt": "In a breezy shady grove with soft soil underfoot and quiet air with almost no wind, a duck is on the top of a stump, then the duck flaps to the left of the stump.",
+    "prompt_id": "1606_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1606_TL_F81_seed01.mp4",
+    "prompt": "In a breezy shady grove with soft soil underfoot and quiet air with almost no wind, a duck is on the top of a stump, then the duck flaps to the left of the stump.",
+    "prompt_id": "1606_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1606_TL_F81_seed02.mp4",
+    "prompt": "In a breezy shady grove with soft soil underfoot and quiet air with almost no wind, a duck is on the top of a stump, then the duck flaps to the left of the stump.",
+    "prompt_id": "1606_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1606_TL_F81_seed03.mp4",
+    "prompt": "In a breezy shady grove with soft soil underfoot and quiet air with almost no wind, a duck is on the top of a stump, then the duck flaps to the left of the stump.",
+    "prompt_id": "1606_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1606_TL_F81_seed04.mp4",
+    "prompt": "In a breezy shady grove with soft soil underfoot and quiet air with almost no wind, a duck is on the top of a stump, then the duck flaps to the left of the stump.",
+    "prompt_id": "1606_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1621_TL_F81_seed00.mp4",
+    "prompt": "In a rock-strewn hillside slope with a few bushes near the edge and long shadows as the sun sits low, a fox is on the top of a bench, then the fox jumps to the left of the bench.",
+    "prompt_id": "1621_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1621_TL_F81_seed01.mp4",
+    "prompt": "In a rock-strewn hillside slope with a few bushes near the edge and long shadows as the sun sits low, a fox is on the top of a bench, then the fox jumps to the left of the bench.",
+    "prompt_id": "1621_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1621_TL_F81_seed02.mp4",
+    "prompt": "In a rock-strewn hillside slope with a few bushes near the edge and long shadows as the sun sits low, a fox is on the top of a bench, then the fox jumps to the left of the bench.",
+    "prompt_id": "1621_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1621_TL_F81_seed03.mp4",
+    "prompt": "In a rock-strewn hillside slope with a few bushes near the edge and long shadows as the sun sits low, a fox is on the top of a bench, then the fox jumps to the left of the bench.",
+    "prompt_id": "1621_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1621_TL_F81_seed04.mp4",
+    "prompt": "In a rock-strewn hillside slope with a few bushes near the edge and long shadows as the sun sits low, a fox is on the top of a bench, then the fox jumps to the left of the bench.",
+    "prompt_id": "1621_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1631_TL_F81_seed00.mp4",
+    "prompt": "In a sunlit garden path with distant trees in the background and distant hills on the horizon, a bird is on the top of a stone, then the bird hops to the left of the stone.",
+    "prompt_id": "1631_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1631_TL_F81_seed01.mp4",
+    "prompt": "In a sunlit garden path with distant trees in the background and distant hills on the horizon, a bird is on the top of a stone, then the bird hops to the left of the stone.",
+    "prompt_id": "1631_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1631_TL_F81_seed02.mp4",
+    "prompt": "In a sunlit garden path with distant trees in the background and distant hills on the horizon, a bird is on the top of a stone, then the bird hops to the left of the stone.",
+    "prompt_id": "1631_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1631_TL_F81_seed03.mp4",
+    "prompt": "In a sunlit garden path with distant trees in the background and distant hills on the horizon, a bird is on the top of a stone, then the bird hops to the left of the stone.",
+    "prompt_id": "1631_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1631_TL_F81_seed04.mp4",
+    "prompt": "In a sunlit garden path with distant trees in the background and distant hills on the horizon, a bird is on the top of a stone, then the bird hops to the left of the stone.",
+    "prompt_id": "1631_TL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1634_RL_F81_seed00.mp4",
+    "prompt": "In a peaceful woodland trail with patches of bare earth and quiet air with almost no wind, a bird is on the right of a stone, then the bird hops to the left of the stone.",
+    "prompt_id": "1634_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1634_RL_F81_seed01.mp4",
+    "prompt": "In a peaceful woodland trail with patches of bare earth and quiet air with almost no wind, a bird is on the right of a stone, then the bird hops to the left of the stone.",
+    "prompt_id": "1634_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1634_RL_F81_seed02.mp4",
+    "prompt": "In a peaceful woodland trail with patches of bare earth and quiet air with almost no wind, a bird is on the right of a stone, then the bird hops to the left of the stone.",
+    "prompt_id": "1634_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1634_RL_F81_seed03.mp4",
+    "prompt": "In a peaceful woodland trail with patches of bare earth and quiet air with almost no wind, a bird is on the right of a stone, then the bird hops to the left of the stone.",
+    "prompt_id": "1634_RL",
+    "dummy": "dummy"
+  },
+  {
+    "video": "1634_RL_F81_seed04.mp4",
+    "prompt": "In a peaceful woodland trail with patches of bare earth and quiet air with almost no wind, a bird is on the right of a stone, then the bird hops to the left of the stone.",
+    "prompt_id": "1634_RL",
+    "dummy": "dummy"
   }
 ]
