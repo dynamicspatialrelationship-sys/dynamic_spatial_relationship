@@ -36,7 +36,7 @@ window.addEventListener("resize", autoScale);
 window.addEventListener("load", autoScale);
 
 /* ===== 渲染 ===== */
-fetch("./data.json", { cache: "no-store" })
+fetch("./data_filtered.json", { cache: "no-store" })
   .then(r => r.json())
   .then(data => {
     container.innerHTML = data.map(d => {
