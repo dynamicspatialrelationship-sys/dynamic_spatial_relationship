@@ -1,4 +1,15 @@
 const container = document.getElementById("container");
+const prevBtn = document.getElementById("prevBtn");
+const nextBtn = document.getElementById("nextBtn");
+const pageInfo = document.getElementById("pageInfo");
+
+const COLS = 3;
+const ROWS_PER_PAGE = 2;
+const PAGE_SIZE = COLS * ROWS_PER_PAGE; // 6
+
+let DATA = [];
+let page = 0;
+let totalPages = 1;
 
 function escapeHtml(s) {
   return String(s)
@@ -36,68 +47,85 @@ function autoScale() {
 window.addEventListener("resize", autoScale);
 window.addEventListener("load", autoScale);
 
-/* ===== 渲染：只信任 data_filtered.json ===== */
+/* ===== 渲染单页（只更新 container，不刷新页面） ===== */
+function renderPage() {
+  const start = page * PAGE_SIZE;
+  const end = Math.min(start + PAGE_SIZE, DATA.length);
+  const slice = DATA.slice(start, end);
+
+  container.innerHTML = slice.map(d => {
+    const v = d.video;
+    const p = d.prompt;
+
+    return `
+      <div class="item">
+        <div class="prompt">
+          <strong>Prompt:</strong> ${escapeHtml(p || "")}
+        </div>
+
+        <div class="videos">
+          <div class="video-col">
+            <div class="video-label">Baseline</div>
+            <video autoplay muted loop playsinline preload="metadata"
+              src="${videoPath("baseline", v)}"></video>
+
+            <img class="curve"
+              src="${curvePath("baseline_score", v)}"
+              loading="lazy"
+              onerror="this.style.display='none';">
+          </div>
+
+          <div class="video-col">
+            <div class="video-label">Finetune</div>
+            <video autoplay muted loop playsinline preload="metadata"
+              src="${videoPath("finetune", v)}"></video>
+
+            <img class="curve"
+              src="${curvePath("finetune_score", v)}"
+              loading="lazy"
+              onerror="this.style.display='none';">
+          </div>
+        </div>
+      </div>
+    `;
+  }).join("");
+
+  pageInfo.textContent = `Page ${page + 1} / ${totalPages}`;
+  prevBtn.disabled = (page === 0);
+  nextBtn.disabled = (page >= totalPages - 1);
+
+  autoScale();
+}
+
+prevBtn.addEventListener("click", () => {
+  if (page > 0) {
+    page -= 1;
+    renderPage();
+    window.scrollTo({ top: 0, behavior: "instant" });
+  }
+});
+
+nextBtn.addEventListener("click", () => {
+  if (page < totalPages - 1) {
+    page += 1;
+    renderPage();
+    window.scrollTo({ top: 0, behavior: "instant" });
+  }
+});
+
+/* ===== 首次加载数据（只加载一次） ===== */
 fetch("./data_filtered.json", { cache: "no-store" })
   .then(r => {
-    if (!r.ok) {
-      throw new Error(`HTTP ${r.status} when loading data_filtered.json`);
-    }
+    if (!r.ok) throw new Error(`HTTP ${r.status} when loading data_filtered.json`);
     return r.json();
   })
   .then(data => {
-    container.innerHTML = data.map(d => {
-      const v = d.video;
-      const p = d.prompt;
-
-      return `
-        <div class="item">
-          <div class="prompt">
-            <strong>Prompt:</strong> ${escapeHtml(p || "")}
-          </div>
-
-          <div class="videos">
-            <div class="video-col">
-              <div class="video-label">Baseline</div>
-              <video
-                autoplay
-                muted
-                loop
-                playsinline
-                preload="metadata"
-                src="${videoPath("baseline", v)}">
-              </video>
-
-              <img class="curve"
-                src="${curvePath("baseline_score", v)}"
-                loading="lazy"
-                onerror="this.style.display='none';">
-            </div>
-
-            <div class="video-col">
-              <div class="video-label">Finetune</div>
-              <video
-                autoplay
-                muted
-                loop
-                playsinline
-                preload="metadata"
-                src="${videoPath("finetune", v)}">
-              </video>
-
-              <img class="curve"
-                src="${curvePath("finetune_score", v)}"
-                loading="lazy"
-                onerror="this.style.display='none';">
-            </div>
-          </div>
-        </div>
-      `;
-    }).join("");
-
-    autoScale();
+    DATA = Array.isArray(data) ? data : [];
+    totalPages = Math.max(1, Math.ceil(DATA.length / PAGE_SIZE));
+    page = 0;
+    renderPage();
   })
   .catch(err => {
-    container.innerHTML =
-      "<p><strong>Failed to load data_filtered.json</strong></p>";
+    container.innerHTML = "<p><strong>Failed to load data_filtered.json</strong></p>";
     console.error(err);
   });
