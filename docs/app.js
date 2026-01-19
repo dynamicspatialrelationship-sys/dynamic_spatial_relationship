@@ -15,10 +15,11 @@ function videoPath(split, filename) {
 }
 
 function curvePath(split, filename) {
-  return `./${split}/${filename}.png`; // e.g. 0001.mp4.png
+  // curve 文件名是 xxx.mp4.png
+  return `./${split}/${filename}.png`;
 }
 
-/* ===== 整体缩放 ===== */
+/* ===== 整体缩放（中轴线） ===== */
 function autoScale() {
   const root = document.getElementById("scale-root");
   const baseWidth =
@@ -35,9 +36,14 @@ function autoScale() {
 window.addEventListener("resize", autoScale);
 window.addEventListener("load", autoScale);
 
-/* ===== 渲染 ===== */
+/* ===== 渲染：只信任 data_filtered.json ===== */
 fetch("./data_filtered.json", { cache: "no-store" })
-  .then(r => r.json())
+  .then(r => {
+    if (!r.ok) {
+      throw new Error(`HTTP ${r.status} when loading data_filtered.json`);
+    }
+    return r.json();
+  })
   .then(data => {
     container.innerHTML = data.map(d => {
       const v = d.video;
@@ -58,8 +64,7 @@ fetch("./data_filtered.json", { cache: "no-store" })
                 loop
                 playsinline
                 preload="metadata"
-                src="${videoPath("baseline", v)}"
-                onerror="this.closest('.item')?.remove()">
+                src="${videoPath("baseline", v)}">
               </video>
 
               <img class="curve"
@@ -92,6 +97,7 @@ fetch("./data_filtered.json", { cache: "no-store" })
     autoScale();
   })
   .catch(err => {
-    container.innerHTML = "<p>Failed to load data.json</p>";
+    container.innerHTML =
+      "<p><strong>Failed to load data_filtered.json</strong></p>";
     console.error(err);
   });
