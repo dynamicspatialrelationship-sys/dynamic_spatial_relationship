@@ -74,4 +74,30 @@ video {
   background: #ffffff;
   border: 1px solid #ddd;
 }
+.header{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap: 16px;
+  margin-bottom: 18px;
+}
+
+.pager{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  font-size:14px;
+}
+
+.pager button{
+  padding:6px 10px;
+  border:1px solid #ddd;
+  background:#fff;
+  cursor:pointer;
+}
+
+.pager button:disabled{
+  opacity:0.4;
+  cursor:not-allowed;
+}
 
