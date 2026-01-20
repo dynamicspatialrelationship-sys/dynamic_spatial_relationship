@@ -54,10 +54,12 @@ body {
   flex-direction: column;
 }
 
-.video-label {
-  font-size: 13px;
-  margin-bottom: 6px;
-  color: #444;
+.video-label{
+  text-align: center;      /* 水平居中 */
+  font-size: 20px;         /* 大字体（可调 18–24） */
+  font-weight: 600;        /* 半粗，论文风格 */
+  margin-bottom: 8px;      /* 与视频留间距 */
+  letter-spacing: 0.3px;   /* 轻微拉开字距，更“标题感” */
 }
 
 video {
