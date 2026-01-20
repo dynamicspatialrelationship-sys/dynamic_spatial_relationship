@@ -65,7 +65,7 @@ function renderPage() {
 
         <div class="videos">
           <div class="video-col">
-            <div class="video-label">Baseline</div>
+            <div class="video-label">Wan2.1-1.3B</div>
             <video autoplay muted loop playsinline preload="metadata"
               src="${videoPath("baseline", v)}"></video>
 
@@ -76,7 +76,7 @@ function renderPage() {
           </div>
 
           <div class="video-col">
-            <div class="video-label">Finetune</div>
+            <div class="video-label">Ours</div>
             <video autoplay muted loop playsinline preload="metadata"
               src="${videoPath("finetune", v)}"></video>
 
