@@ -54,18 +54,6 @@
     "dummy": "dummy"
   },
   {
-    "video": "testLRFBT_TR_2_F81_seed04.mp4",
-    "prompt": "Near a hedgerow showing sparrows, a dog is on the top of a bench, then the dog trots to the right of the bench.",
-    "prompt_id": "testLRFBT_TR_2",
-    "dummy": "dummy"
-  },
-  {
-    "video": "testLRFBT_TR_3_F81_seed04.mp4",
-    "prompt": "By a canal featuring brick edges, a fox is on the top of a chair, then the fox trots to the right of the chair.",
-    "prompt_id": "testLRFBT_TR_3",
-    "dummy": "dummy"
-  },
-  {
     "video": "1099_RL_F81_seed00.mp4",
     "prompt": "In a spacious library corner with a large window and sunlight spilling across the floor, a cat is on the right of a chair, then the cat walks to the left of the chair.",
     "prompt_id": "1099_RL",
@@ -234,12 +222,6 @@
     "dummy": "dummy"
   },
   {
-    "video": "1396_RT_F81_seed00.mp4",
-    "prompt": "In a sunlit hillside slope with patches of bare earth and long shadows as the sun sits low, a rabbit is on the right of a stump, then the rabbit jumps to the top of the stump.",
-    "prompt_id": "1396_RT",
-    "dummy": "dummy"
-  },
-  {
     "video": "1398_RL_F81_seed04.mp4",
     "prompt": "In a sunlit grassy field with fallen leaves on the ground and distant hills on the horizon, a fox is on the right of a stump, then the fox walks to the left of the stump.",
     "prompt_id": "1398_RL",
@@ -339,12 +321,6 @@
     "video": "1483_TR_F81_seed00.mp4",
     "prompt": "In a quiet meadow with distant trees in the background and hazy light filtering through the trees, a squirrel is on the top of a rock, then the squirrel leaps to the right of the rock.",
     "prompt_id": "1483_TR",
-    "dummy": "dummy"
-  },
-  {
-    "video": "1484_LR_F81_seed02.mp4",
-    "prompt": "In a sunlit dusty path with soft soil underfoot and the sound of water somewhere nearby, a cat is on the left of a stump, then the cat walks to the right of the stump.",
-    "prompt_id": "1484_LR",
     "dummy": "dummy"
   },
   {
